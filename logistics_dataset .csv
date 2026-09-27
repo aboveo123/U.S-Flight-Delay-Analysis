@@ -1,0 +1,19 @@
+Level_1,Level_2,Level_3,Value_Million_VND,Note
+E-commerce Urban Logistics 2026,Fulfillment & Micro-hubs,Urban micro-hub rent,420,Fixed facility cost for small inner-city hubs
+E-commerce Urban Logistics 2026,Fulfillment & Micro-hubs,Sorting staff,360,Labor for parcel sorting and shift handover
+E-commerce Urban Logistics 2026,Fulfillment & Micro-hubs,Smart locker operation,210,Locker maintenance and platform fee
+E-commerce Urban Logistics 2026,Fulfillment & Micro-hubs,Packaging materials,180,Boxes labels and reusable bags
+E-commerce Urban Logistics 2026,Last-mile Delivery,Courier base pay,620,Regular rider payroll and minimum guarantee
+E-commerce Urban Logistics 2026,Last-mile Delivery,Peak-hour incentives,280,Surge incentives during rain and shopping campaigns
+E-commerce Urban Logistics 2026,Last-mile Delivery,EV scooter leasing,340,Monthly leasing and maintenance for electric scooters
+E-commerce Urban Logistics 2026,Last-mile Delivery,Cargo-bike pilot,160,Dense district pilot for low-emission delivery
+E-commerce Urban Logistics 2026,Last-mile Delivery,Route optimization system,230,Routing API traffic data and dispatch algorithm
+E-commerce Urban Logistics 2026,Reverse Logistics,Return pickup,260,Pickup trips for failed delivery and customer returns
+E-commerce Urban Logistics 2026,Reverse Logistics,Quality checking,150,Inspect returned products before resale or refund
+E-commerce Urban Logistics 2026,Reverse Logistics,Repacking and refurbishment,120,Repacking cleaning and minor repair
+E-commerce Urban Logistics 2026,Customer Experience & Payment,Customer support agents,250,Chat/call support for delivery issues
+E-commerce Urban Logistics 2026,Customer Experience & Payment,Delivery notification system,130,SMS Zalo and app push notifications
+E-commerce Urban Logistics 2026,Customer Experience & Payment,COD reconciliation,110,Cash-on-delivery checking and finance operation
+E-commerce Urban Logistics 2026,Data & Green Operations,Carbon tracking dashboard,90,Emission reporting for delivery modes
+E-commerce Urban Logistics 2026,Data & Green Operations,Battery swapping stations,190,Battery infrastructure for EV fleet
+E-commerce Urban Logistics 2026,Data & Green Operations,Safety and eco-driving training,85,Training for couriers and hub staff

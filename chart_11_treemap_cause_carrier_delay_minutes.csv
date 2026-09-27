@@ -1,0 +1,55 @@
+cause_label,carrier_grouped,delay_minutes
+Carrier-related,American Network,490402.0
+Carrier-related,Delta Network,388482.0
+Carrier-related,Endeavor,133155.0
+Carrier-related,Envoy,64024.0
+Carrier-related,Frontier,95531.0
+Carrier-related,Other carriers,425160.0
+Carrier-related,PSA,131818.0
+Carrier-related,Republic,81051.0
+Carrier-related,SkyWest,557165.0
+Carrier-related,Southwest,362549.0
+Carrier-related,United Network,191484.0
+Late aircraft,American Network,671617.0
+Late aircraft,Delta Network,242783.0
+Late aircraft,Endeavor,170963.0
+Late aircraft,Envoy,164709.0
+Late aircraft,Frontier,205692.0
+Late aircraft,Other carriers,603996.0
+Late aircraft,PSA,232326.0
+Late aircraft,Republic,163330.0
+Late aircraft,SkyWest,308266.0
+Late aircraft,Southwest,602148.0
+Late aircraft,United Network,266264.0
+NAS / airspace system,American Network,197643.0
+NAS / airspace system,Delta Network,168455.0
+NAS / airspace system,Endeavor,59202.0
+NAS / airspace system,Envoy,81796.0
+NAS / airspace system,Frontier,64753.0
+NAS / airspace system,Other carriers,342842.0
+NAS / airspace system,PSA,47041.0
+NAS / airspace system,Republic,115464.0
+NAS / airspace system,SkyWest,211592.0
+NAS / airspace system,Southwest,222640.0
+NAS / airspace system,United Network,310338.0
+Security,American Network,1723.0
+Security,Delta Network,512.0
+Security,Endeavor,79.0
+Security,Envoy,276.0
+Security,Other carriers,2213.0
+Security,PSA,445.0
+Security,Republic,118.0
+Security,SkyWest,930.0
+Security,Southwest,2672.0
+Security,United Network,317.0
+Weather,American Network,58251.0
+Weather,Delta Network,20147.0
+Weather,Endeavor,15712.0
+Weather,Envoy,43627.0
+Weather,Frontier,6300.0
+Weather,Other carriers,43333.0
+Weather,PSA,23844.0
+Weather,Republic,16840.0
+Weather,SkyWest,150166.0
+Weather,Southwest,21308.0
+Weather,United Network,32597.0

@@ -1,0 +1,41 @@
+carrier_name,carrier_short,cause,cause_label,delay_minutes,total_carrier_delay,share_pct,carrier_order
+American Airlines Network,American Network,carrier,Carrier-related,490402.0,1419636.0,34.54420710661042,0
+American Airlines Network,American Network,late_aircraft,Late aircraft,671617.0,1419636.0,47.30909895212576,0
+American Airlines Network,American Network,nas,NAS / airspace system,197643.0,1419636.0,13.922089887830403,0
+American Airlines Network,American Network,security,Security,1723.0,1419636.0,0.12136913969496405,0
+American Airlines Network,American Network,weather,Weather,58251.0,1419636.0,4.103234913738451,0
+SkyWest Airlines Inc.,SkyWest,carrier,Carrier-related,557165.0,1228119.0,45.36734632393115,1
+SkyWest Airlines Inc.,SkyWest,late_aircraft,Late aircraft,308266.0,1228119.0,25.1006620693923,1
+SkyWest Airlines Inc.,SkyWest,nas,NAS / airspace system,211592.0,1228119.0,17.228949311915212,1
+SkyWest Airlines Inc.,SkyWest,security,Security,930.0,1228119.0,0.0757255607966329,1
+SkyWest Airlines Inc.,SkyWest,weather,Weather,150166.0,1228119.0,12.227316733964704,1
+Southwest Airlines,Southwest,carrier,Carrier-related,362549.0,1211317.0,29.930150406540978,2
+Southwest Airlines,Southwest,late_aircraft,Late aircraft,602148.0,1211317.0,49.710191469285085,2
+Southwest Airlines,Southwest,nas,NAS / airspace system,222640.0,1211317.0,18.379994666961665,2
+Southwest Airlines,Southwest,security,Security,2672.0,1211317.0,0.22058635353090894,2
+Southwest Airlines,Southwest,weather,Weather,21308.0,1211317.0,1.759077103681365,2
+Delta Air Lines Network,Delta Network,carrier,Carrier-related,388482.0,820379.0,47.35396688603682,3
+Delta Air Lines Network,Delta Network,late_aircraft,Late aircraft,242783.0,820379.0,29.59400472220766,3
+Delta Air Lines Network,Delta Network,nas,NAS / airspace system,168455.0,820379.0,20.53380205977969,3
+Delta Air Lines Network,Delta Network,security,Security,512.0,820379.0,0.062410178710083995,3
+Delta Air Lines Network,Delta Network,weather,Weather,20147.0,820379.0,2.4558161532657463,3
+United Air Lines Network,United Network,carrier,Carrier-related,191484.0,801000.0,23.90561797752809,4
+United Air Lines Network,United Network,late_aircraft,Late aircraft,266264.0,801000.0,33.24144818976279,4
+United Air Lines Network,United Network,nas,NAS / airspace system,310338.0,801000.0,38.7438202247191,4
+United Air Lines Network,United Network,security,Security,317.0,801000.0,0.03957553058676654,4
+United Air Lines Network,United Network,weather,Weather,32597.0,801000.0,4.069538077403246,4
+PSA Airlines Inc.,PSA,carrier,Carrier-related,131818.0,435474.0,30.27000463862366,5
+PSA Airlines Inc.,PSA,late_aircraft,Late aircraft,232326.0,435474.0,53.35014260323234,5
+PSA Airlines Inc.,PSA,nas,NAS / airspace system,47041.0,435474.0,10.802252258458598,5
+PSA Airlines Inc.,PSA,security,Security,445.0,435474.0,0.10218750143521772,5
+PSA Airlines Inc.,PSA,weather,Weather,23844.0,435474.0,5.4754129982501825,5
+Endeavor Air Inc.,Endeavor,carrier,Carrier-related,133155.0,379111.0,35.12295871130091,6
+Endeavor Air Inc.,Endeavor,late_aircraft,Late aircraft,170963.0,379111.0,45.09576350989552,6
+Endeavor Air Inc.,Endeavor,nas,NAS / airspace system,59202.0,379111.0,15.616006921455721,6
+Endeavor Air Inc.,Endeavor,security,Security,79.0,379111.0,0.02083822416126148,6
+Endeavor Air Inc.,Endeavor,weather,Weather,15712.0,379111.0,4.144432633186587,6
+Republic Airline,Republic,carrier,Carrier-related,81051.0,376803.0,21.510179059083924,7
+Republic Airline,Republic,late_aircraft,Late aircraft,163330.0,376803.0,43.34625785888117,7
+Republic Airline,Republic,nas,NAS / airspace system,115464.0,376803.0,30.643068128438465,7
+Republic Airline,Republic,security,Security,118.0,376803.0,0.03131609886333177,7
+Republic Airline,Republic,weather,Weather,16840.0,376803.0,4.46917885473311,7

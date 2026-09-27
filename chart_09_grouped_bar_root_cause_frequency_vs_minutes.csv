@@ -1,0 +1,11 @@
+cause_label,metric,share_pct
+Late aircraft,Share of delayed incidents,38.228605591356754
+Carrier-related,Share of delayed incidents,30.273207581026245
+NAS / airspace system,Share of delayed incidents,28.380501266559037
+Weather,Share of delayed incidents,2.956267168563618
+Security,Share of delayed incidents,0.16141839249434434
+Late aircraft,Share of delay minutes,41.19846312838649
+Carrier-related,Share of delay minutes,33.130567731208764
+NAS / airspace system,Share of delay minutes,20.664101584250886
+Weather,Share of delay minutes,4.901548770311014
+Security,Share of delay minutes,0.10531878584284123

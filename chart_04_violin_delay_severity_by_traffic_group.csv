@@ -1,0 +1,1601 @@
+carrier_name,airport,traffic_group,arr_flights,avg_delay_min_per_delayed_flight
+Allegiant Air,MCO,20–50 flights,37.0,59.5
+Allegiant Air,MDT,51–200 flights,93.0,101.3529411764706
+Allegiant Air,MEM,20–50 flights,42.0,83.25
+Allegiant Air,MFE,20–50 flights,40.0,85.16666666666667
+Allegiant Air,MLB,20–50 flights,25.0,29.2
+Allegiant Air,MLI,51–200 flights,53.0,49.5
+Allegiant Air,MOT,20–50 flights,20.0,66.4
+Allegiant Air,MSO,20–50 flights,20.0,90.0
+Allegiant Air,MYR,51–200 flights,78.0,49.27272727272727
+Allegiant Air,OMA,51–200 flights,52.0,44.4
+Allegiant Air,PBG,20–50 flights,42.0,46.36363636363637
+Allegiant Air,PBI,20–50 flights,37.0,36.111111111111114
+Allegiant Air,PGD,"201–1,000 flights",667.0,59.3
+Allegiant Air,PHX,20–50 flights,25.0,28.285714285714285
+Allegiant Air,PIA,51–200 flights,77.0,46.25
+Allegiant Air,PIE,"201–1,000 flights",752.0,58.13368983957219
+Allegiant Air,PIT,51–200 flights,121.0,73.24
+Allegiant Air,PSC,20–50 flights,27.0,68.0
+Allegiant Air,PSM,20–50 flights,50.0,24.714285714285715
+Allegiant Air,PVU,51–200 flights,137.0,86.62162162162163
+Allegiant Air,RFD,51–200 flights,88.0,56.833333333333336
+Allegiant Air,ROA,20–50 flights,25.0,27.0
+Allegiant Air,ROC,20–50 flights,30.0,71.66666666666667
+Allegiant Air,RSW,20–50 flights,25.0,41.5
+Allegiant Air,SAV,51–200 flights,73.0,84.92857142857143
+Allegiant Air,SCK,20–50 flights,33.0,59.5
+Allegiant Air,SDF,51–200 flights,55.0,63.357142857142854
+Allegiant Air,SFB,"201–1,000 flights",799.0,86.63084112149532
+Allegiant Air,SGF,20–50 flights,42.0,42.333333333333336
+Allegiant Air,SNA,51–200 flights,110.0,155.33333333333334
+Allegiant Air,SRQ,"201–1,000 flights",333.0,71.1076923076923
+Allegiant Air,SWF,20–50 flights,46.0,55.46666666666667
+Allegiant Air,SYR,51–200 flights,86.0,43.4
+Allegiant Air,TOL,51–200 flights,51.0,68.57142857142857
+Allegiant Air,TTN,20–50 flights,25.0,47.0
+Allegiant Air,TVC,20–50 flights,48.0,39.90909090909091
+Allegiant Air,TYS,"201–1,000 flights",231.0,66.04347826086956
+Allegiant Air,USA,51–200 flights,59.0,63.4
+Allegiant Air,VPS,51–200 flights,184.0,76.51351351351352
+Allegiant Air,XNA,51–200 flights,60.0,56.578947368421055
+GoJet Airlines LLC d/b/a United Express,ABE,51–200 flights,76.0,79.625
+GoJet Airlines LLC d/b/a United Express,ATW,20–50 flights,31.0,69.54545454545455
+GoJet Airlines LLC d/b/a United Express,AVP,51–200 flights,57.0,62.476190476190474
+GoJet Airlines LLC d/b/a United Express,BGR,20–50 flights,24.0,55.0
+GoJet Airlines LLC d/b/a United Express,BHM,51–200 flights,93.0,89.81818181818181
+GoJet Airlines LLC d/b/a United Express,BTV,51–200 flights,137.0,63.42307692307692
+GoJet Airlines LLC d/b/a United Express,BUF,51–200 flights,120.0,91.46153846153847
+GoJet Airlines LLC d/b/a United Express,CAE,51–200 flights,175.0,93.16326530612245
+GoJet Airlines LLC d/b/a United Express,CHA,51–200 flights,62.0,95.95238095238095
+GoJet Airlines LLC d/b/a United Express,CID,51–200 flights,60.0,94.45454545454545
+GoJet Airlines LLC d/b/a United Express,CVG,51–200 flights,147.0,100.66666666666667
+GoJet Airlines LLC d/b/a United Express,DAY,51–200 flights,152.0,100.81632653061224
+GoJet Airlines LLC d/b/a United Express,DCA,"201–1,000 flights",250.0,78.93333333333334
+GoJet Airlines LLC d/b/a United Express,EWR,"201–1,000 flights",952.0,102.06091370558376
+GoJet Airlines LLC d/b/a United Express,FAR,51–200 flights,106.0,101.8780487804878
+GoJet Airlines LLC d/b/a United Express,FSD,51–200 flights,91.0,86.35483870967742
+GoJet Airlines LLC d/b/a United Express,GRB,51–200 flights,51.0,121.33333333333333
+GoJet Airlines LLC d/b/a United Express,GRR,51–200 flights,59.0,72.47826086956522
+GoJet Airlines LLC d/b/a United Express,GSO,51–200 flights,52.0,90.8
+GoJet Airlines LLC d/b/a United Express,GSP,51–200 flights,116.0,81.38461538461539
+GoJet Airlines LLC d/b/a United Express,HSV,51–200 flights,73.0,106.74193548387096
+GoJet Airlines LLC d/b/a United Express,IAD,"201–1,000 flights",714.0,105.14444444444445
+GoJet Airlines LLC d/b/a United Express,LEX,51–200 flights,76.0,77.17241379310344
+GoJet Airlines LLC d/b/a United Express,LIT,51–200 flights,82.0,113.25
+GoJet Airlines LLC d/b/a United Express,MDT,20–50 flights,31.0,115.16666666666667
+GoJet Airlines LLC d/b/a United Express,MSN,51–200 flights,71.0,137.8
+GoJet Airlines LLC d/b/a United Express,ORD,">1,000 flights",2217.0,109.09
+GoJet Airlines LLC d/b/a United Express,PHL,51–200 flights,63.0,65.0
+GoJet Airlines LLC d/b/a United Express,PIT,20–50 flights,34.0,38.666666666666664
+GoJet Airlines LLC d/b/a United Express,PVD,20–50 flights,44.0,146.0
+GoJet Airlines LLC d/b/a United Express,PWM,51–200 flights,190.0,72.225
+GoJet Airlines LLC d/b/a United Express,RIC,51–200 flights,195.0,110.93939393939394
+GoJet Airlines LLC d/b/a United Express,ROA,51–200 flights,127.0,85.5909090909091
+GoJet Airlines LLC d/b/a United Express,ROC,51–200 flights,62.0,129.46153846153845
+GoJet Airlines LLC d/b/a United Express,SCE,51–200 flights,115.0,118.62857142857143
+GoJet Airlines LLC d/b/a United Express,SGF,51–200 flights,106.0,109.4390243902439
+GoJet Airlines LLC d/b/a United Express,STL,"201–1,000 flights",276.0,111.87777777777778
+GoJet Airlines LLC d/b/a United Express,SYR,51–200 flights,74.0,104.2
+GoJet Airlines LLC d/b/a United Express,TUL,20–50 flights,26.0,85.18181818181819
+GoJet Airlines LLC d/b/a United Express,TVC,51–200 flights,108.0,129.1346153846154
+GoJet Airlines LLC d/b/a United Express,TYS,20–50 flights,31.0,96.72727272727273
+GoJet Airlines LLC d/b/a United Express,XNA,51–200 flights,56.0,101.44444444444444
+Envoy Air,ABI,51–200 flights,146.0,56.464285714285715
+Envoy Air,ABQ,20–50 flights,36.0,112.66666666666667
+Envoy Air,ACT,51–200 flights,59.0,59.5
+Envoy Air,AGS,20–50 flights,26.0,55.2
+Envoy Air,ALB,51–200 flights,90.0,45.833333333333336
+Envoy Air,ALO,51–200 flights,59.0,100.08695652173913
+Envoy Air,AMA,51–200 flights,129.0,46.888888888888886
+Envoy Air,ATL,51–200 flights,76.0,59.0
+Envoy Air,ATW,51–200 flights,150.0,69.41463414634147
+Envoy Air,AUS,20–50 flights,45.0,41.8
+Envoy Air,AVL,51–200 flights,133.0,50.285714285714285
+Envoy Air,AVP,51–200 flights,60.0,61.46153846153846
+Envoy Air,AZO,51–200 flights,90.0,77.5
+Envoy Air,BHM,51–200 flights,149.0,57.61538461538461
+Envoy Air,BIL,51–200 flights,66.0,51.714285714285715
+Envoy Air,BIS,51–200 flights,84.0,57.75
+Envoy Air,BMI,51–200 flights,151.0,80.2258064516129
+Envoy Air,BNA,"201–1,000 flights",271.0,60.05555555555556
+Envoy Air,BOI,20–50 flights,30.0,20.0
+Envoy Air,BOS,51–200 flights,146.0,79.31428571428572
+Envoy Air,BRO,51–200 flights,119.0,41.78947368421053
+Envoy Air,BUF,20–50 flights,41.0,75.0
+Envoy Air,BUR,20–50 flights,34.0,65.5
+Envoy Air,BWI,51–200 flights,88.0,63.5
+Envoy Air,CAE,51–200 flights,90.0,39.333333333333336
+Envoy Air,CHA,51–200 flights,67.0,67.0909090909091
+Envoy Air,CHS,20–50 flights,46.0,29.25
+Envoy Air,CID,51–200 flights,68.0,65.42857142857143
+Envoy Air,CLD,51–200 flights,60.0,64.5
+Envoy Air,CLE,51–200 flights,127.0,68.55172413793103
+Envoy Air,CLL,51–200 flights,90.0,41.733333333333334
+Envoy Air,CLT,"201–1,000 flights",490.0,60.577777777777776
+Envoy Air,CMH,"201–1,000 flights",257.0,65.7
+Envoy Air,CMI,51–200 flights,146.0,73.90322580645162
+Envoy Air,COS,20–50 flights,31.0,24.5
+Envoy Air,COU,"201–1,000 flights",205.0,60.717948717948715
+Envoy Air,CRP,51–200 flights,79.0,41.8421052631579
+Envoy Air,CVG,"201–1,000 flights",270.0,74.87692307692308
+Envoy Air,CWA,51–200 flights,84.0,53.38095238095238
+Envoy Air,DAY,20–50 flights,29.0,110.875
+Envoy Air,DCA,"201–1,000 flights",423.0,58.25352112676056
+Envoy Air,DEN,51–200 flights,55.0,26.666666666666668
+Envoy Air,DFW,">1,000 flights",4745.0,76.5043156596794
+Envoy Air,DSM,51–200 flights,133.0,58.63636363636363
+Envoy Air,ECP,51–200 flights,108.0,39.388888888888886
+Envoy Air,ELP,51–200 flights,68.0,58.714285714285715
+Envoy Air,EVV,51–200 flights,60.0,63.0
+Envoy Air,EWR,51–200 flights,53.0,70.5
+Envoy Air,EYW,51–200 flights,176.0,111.64285714285714
+Envoy Air,FAR,"201–1,000 flights",205.0,69.85714285714286
+Envoy Air,FSD,51–200 flights,137.0,52.61538461538461
+Envoy Air,FSM,51–200 flights,90.0,50.285714285714285
+Envoy Air,FWA,51–200 flights,66.0,65.52631578947368
+Envoy Air,GGG,51–200 flights,59.0,69.61538461538461
+Envoy Air,GJT,51–200 flights,93.0,42.63157894736842
+Envoy Air,GPT,20–50 flights,30.0,75.4
+Envoy Air,GRK,51–200 flights,75.0,60.9
+Envoy Air,GRR,51–200 flights,110.0,60.241379310344826
+Envoy Air,GSO,"201–1,000 flights",201.0,59.24242424242424
+Envoy Air,GSP,51–200 flights,177.0,54.714285714285715
+Envoy Air,HHH,51–200 flights,134.0,75.0
+Envoy Air,HOU,20–50 flights,30.0,46.666666666666664
+Envoy Air,HPN,51–200 flights,150.0,67.23529411764706
+Envoy Air,HRL,51–200 flights,120.0,49.8
+Envoy Air,HSV,51–200 flights,106.0,46.611111111111114
+Envoy Air,IAH,51–200 flights,125.0,56.4
+Envoy Air,ICT,"201–1,000 flights",219.0,47.32608695652174
+Envoy Air,ILM,20–50 flights,47.0,47.4
+Envoy Air,IND,51–200 flights,72.0,83.5
+Envoy Air,JAN,20–50 flights,50.0,39.23076923076923
+Envoy Air,JAX,51–200 flights,74.0,49.583333333333336
+Envoy Air,LAN,51–200 flights,59.0,62.666666666666664
+Envoy Air,LBB,51–200 flights,152.0,49.6
+Envoy Air,LCH,51–200 flights,90.0,69.84615384615384
+Envoy Air,LEX,51–200 flights,95.0,60.15
+Envoy Air,LIT,"201–1,000 flights",251.0,50.80357142857143
+Envoy Air,LSE,51–200 flights,89.0,79.21052631578948
+Envoy Air,MAF,51–200 flights,62.0,55.166666666666664
+Envoy Air,MCI,"201–1,000 flights",213.0,74.46428571428571
+Envoy Air,MDT,20–50 flights,31.0,57.875
+Envoy Air,MEM,51–200 flights,126.0,64.82608695652173
+Envoy Air,MFE,51–200 flights,55.0,46.2
+Envoy Air,MHT,51–200 flights,72.0,44.1
+Envoy Air,MIA,">1,000 flights",1105.0,72.38095238095238
+Envoy Air,MKE,20–50 flights,32.0,65.75
+Envoy Air,MLI,20–50 flights,47.0,44.4
+Envoy Air,MLU,51–200 flights,86.0,64.0
+Envoy Air,MOB,51–200 flights,98.0,47.04761904761905
+Envoy Air,MQT,51–200 flights,76.0,74.3529411764706
+Envoy Air,MRY,20–50 flights,29.0,49.5
+Envoy Air,MSN,51–200 flights,138.0,104.6
+Envoy Air,MSO,51–200 flights,60.0,35.111111111111114
+Envoy Air,MSY,20–50 flights,47.0,63.57142857142857
+Envoy Air,OKC,51–200 flights,67.0,44.63636363636363
+Envoy Air,OMA,51–200 flights,158.0,71.61538461538461
+Envoy Air,ORD,">1,000 flights",5829.0,90.05348460291734
+Envoy Air,ORF,51–200 flights,90.0,40.84615384615385
+Envoy Air,PHX,"201–1,000 flights",822.0,82.02816901408451
+Envoy Air,PIA,51–200 flights,113.0,48.5
+Envoy Air,PIT,20–50 flights,35.0,16.0
+Envoy Air,PNS,51–200 flights,137.0,43.5
+Envoy Air,PVD,20–50 flights,31.0,93.5
+Envoy Air,PWM,51–200 flights,60.0,60.4
+Envoy Air,RAP,51–200 flights,108.0,49.5
+Envoy Air,RDM,51–200 flights,86.0,46.6
+Envoy Air,RDU,51–200 flights,144.0,66.14285714285714
+Envoy Air,RIC,51–200 flights,139.0,60.666666666666664
+Envoy Air,RNO,20–50 flights,30.0,16.0
+Envoy Air,ROC,51–200 flights,115.0,54.85
+Envoy Air,ROW,51–200 flights,60.0,45.35294117647059
+Envoy Air,RST,51–200 flights,88.0,53.43333333333333
+Envoy Air,SAT,51–200 flights,107.0,51.275862068965516
+Envoy Air,SAV,51–200 flights,117.0,43.1
+Envoy Air,SBA,20–50 flights,31.0,37.5
+Envoy Air,SDF,51–200 flights,83.0,83.27272727272727
+Envoy Air,SEA,51–200 flights,79.0,23.333333333333332
+Envoy Air,SGF,"201–1,000 flights",358.0,56.940298507462686
+Envoy Air,SHV,20–50 flights,30.0,19.5
+Envoy Air,SPI,51–200 flights,59.0,125.06666666666666
+Envoy Air,SPS,51–200 flights,60.0,50.63636363636363
+Envoy Air,SRQ,51–200 flights,72.0,55.0
+Envoy Air,STL,51–200 flights,149.0,72.36
+Envoy Air,SYR,20–50 flights,35.0,74.5
+Envoy Air,TLH,51–200 flights,89.0,49.9
+Envoy Air,TPA,51–200 flights,76.0,52.625
+Envoy Air,TRI,51–200 flights,60.0,51.6
+Envoy Air,TUL,51–200 flights,144.0,62.333333333333336
+Envoy Air,TXK,51–200 flights,60.0,78.83333333333333
+Envoy Air,TYS,51–200 flights,60.0,40.0
+Envoy Air,VPS,51–200 flights,109.0,35.18181818181818
+Envoy Air,XNA,"201–1,000 flights",592.0,54.25
+Spirit Airlines,ACY,51–200 flights,169.0,70.671875
+Spirit Airlines,ATL,"201–1,000 flights",424.0,63.3741935483871
+Spirit Airlines,AUS,51–200 flights,92.0,87.2
+Spirit Airlines,BNA,51–200 flights,124.0,86.5
+Spirit Airlines,BOS,"201–1,000 flights",306.0,55.02439024390244
+Spirit Airlines,BUR,51–200 flights,63.0,48.2
+Spirit Airlines,BWI,51–200 flights,196.0,70.11940298507463
+Spirit Airlines,CHS,20–50 flights,36.0,47.8
+Spirit Airlines,CLT,"201–1,000 flights",256.0,56.73255813953488
+Spirit Airlines,CMH,51–200 flights,66.0,58.19230769230769
+Spirit Airlines,DFW,"201–1,000 flights",365.0,64.27272727272727
+Spirit Airlines,DTW,"201–1,000 flights",571.0,69.6588785046729
+Spirit Airlines,EWR,"201–1,000 flights",660.0,67.11162790697675
+Spirit Airlines,FLL,">1,000 flights",1642.0,67.94824399260628
+Spirit Airlines,IAH,"201–1,000 flights",395.0,82.30714285714286
+Spirit Airlines,IND,51–200 flights,86.0,69.9090909090909
+Spirit Airlines,LAS,"201–1,000 flights",412.0,62.654205607476634
+Spirit Airlines,LAX,51–200 flights,185.0,54.81481481481482
+Spirit Airlines,LBE,20–50 flights,24.0,82.0
+Spirit Airlines,LGA,"201–1,000 flights",404.0,64.12426035502959
+Spirit Airlines,MCI,51–200 flights,62.0,51.0
+Spirit Airlines,MCO,">1,000 flights",1310.0,69.50677506775068
+Spirit Airlines,MEM,20–50 flights,23.0,62.42857142857143
+Spirit Airlines,MIA,"201–1,000 flights",345.0,82.57272727272728
+Spirit Airlines,MSY,51–200 flights,159.0,71.8360655737705
+Spirit Airlines,MYR,51–200 flights,179.0,72.17021276595744
+Spirit Airlines,ORD,"201–1,000 flights",421.0,88.46511627906976
+Spirit Airlines,ORF,20–50 flights,44.0,74.55
+Spirit Airlines,PBI,20–50 flights,40.0,58.9
+Spirit Airlines,PHL,51–200 flights,199.0,72.75
+Spirit Airlines,PIT,51–200 flights,86.0,54.08695652173913
+Spirit Airlines,PNS,51–200 flights,59.0,71.20833333333333
+Spirit Airlines,RDU,20–50 flights,39.0,71.47368421052632
+Spirit Airlines,RIC,20–50 flights,44.0,76.52380952380952
+Spirit Airlines,RNO,20–50 flights,48.0,103.5
+Spirit Airlines,RSW,51–200 flights,134.0,52.79661016949152
+Spirit Airlines,SAT,51–200 flights,53.0,68.9090909090909
+Spirit Airlines,SDF,20–50 flights,21.0,62.666666666666664
+Spirit Airlines,SJU,"201–1,000 flights",329.0,81.35185185185185
+Spirit Airlines,SNA,51–200 flights,76.0,52.75
+Spirit Airlines,STT,51–200 flights,56.0,50.92857142857143
+Spirit Airlines,TPA,"201–1,000 flights",219.0,67.87951807228916
+PSA Airlines Inc.,ABE,51–200 flights,60.0,44.5
+PSA Airlines Inc.,AGS,51–200 flights,144.0,72.40677966101696
+PSA Airlines Inc.,ALB,51–200 flights,91.0,75.78260869565217
+PSA Airlines Inc.,ATL,"201–1,000 flights",281.0,65.74509803921569
+PSA Airlines Inc.,AVL,20–50 flights,28.0,75.5
+PSA Airlines Inc.,AVP,51–200 flights,90.0,35.61538461538461
+PSA Airlines Inc.,BDL,51–200 flights,83.0,70.73684210526316
+PSA Airlines Inc.,BGR,51–200 flights,72.0,63.54545454545455
+PSA Airlines Inc.,BHM,"201–1,000 flights",375.0,82.74117647058823
+PSA Airlines Inc.,BNA,51–200 flights,129.0,74.3103448275862
+PSA Airlines Inc.,BTR,"201–1,000 flights",206.0,93.41666666666667
+PSA Airlines Inc.,BTV,51–200 flights,181.0,91.29268292682927
+PSA Airlines Inc.,BUF,51–200 flights,60.0,75.38888888888889
+PSA Airlines Inc.,CAE,51–200 flights,104.0,66.41935483870968
+PSA Airlines Inc.,CAK,51–200 flights,198.0,113.86666666666666
+PSA Airlines Inc.,CHA,51–200 flights,165.0,104.88679245283019
+PSA Airlines Inc.,CHS,51–200 flights,130.0,119.72727272727273
+PSA Airlines Inc.,CLE,"201–1,000 flights",225.0,102.03389830508475
+PSA Airlines Inc.,CLT,">1,000 flights",3019.0,100.28952772073922
+PSA Airlines Inc.,CMH,51–200 flights,142.0,57.774193548387096
+PSA Airlines Inc.,CRW,51–200 flights,120.0,85.35483870967742
+PSA Airlines Inc.,CVG,"201–1,000 flights",243.0,85.39622641509433
+PSA Airlines Inc.,DAB,51–200 flights,60.0,73.83333333333333
+PSA Airlines Inc.,DAY,"201–1,000 flights",397.0,104.41584158415841
+PSA Airlines Inc.,DCA,">1,000 flights",3400.0,109.18997668997669
+PSA Airlines Inc.,DFW,">1,000 flights",2055.0,118.32217573221757
+PSA Airlines Inc.,DSM,51–200 flights,73.0,58.8
+PSA Airlines Inc.,DTW,51–200 flights,152.0,65.61764705882354
+PSA Airlines Inc.,ECP,51–200 flights,124.0,70.28
+PSA Airlines Inc.,EVV,51–200 flights,60.0,128.5
+PSA Airlines Inc.,EWN,20–50 flights,23.0,36.6
+PSA Airlines Inc.,FSD,20–50 flights,24.0,78.0
+PSA Airlines Inc.,FWA,51–200 flights,78.0,71.63157894736842
+PSA Airlines Inc.,GPT,51–200 flights,107.0,67.44
+PSA Airlines Inc.,GRR,51–200 flights,83.0,71.10714285714286
+PSA Airlines Inc.,GSO,51–200 flights,87.0,45.54545454545455
+PSA Airlines Inc.,GSP,51–200 flights,182.0,68.51162790697674
+PSA Airlines Inc.,HOU,51–200 flights,92.0,119.08823529411765
+PSA Airlines Inc.,HPN,"201–1,000 flights",228.0,71.40625
+PSA Airlines Inc.,HSV,51–200 flights,165.0,93.5
+PSA Airlines Inc.,IAD,51–200 flights,69.0,63.714285714285715
+PSA Airlines Inc.,IAH,51–200 flights,70.0,64.73333333333333
+PSA Airlines Inc.,ICT,20–50 flights,49.0,79.86666666666666
+PSA Airlines Inc.,ILM,51–200 flights,83.0,55.09090909090909
+PSA Airlines Inc.,IND,20–50 flights,31.0,90.5
+PSA Airlines Inc.,JAN,51–200 flights,166.0,72.15555555555555
+PSA Airlines Inc.,JAX,20–50 flights,23.0,20.25
+PSA Airlines Inc.,LAN,20–50 flights,26.0,28.666666666666668
+PSA Airlines Inc.,LAW,51–200 flights,90.0,138.76666666666668
+PSA Airlines Inc.,LBB,51–200 flights,60.0,98.21428571428571
+PSA Airlines Inc.,LEX,51–200 flights,175.0,59.6551724137931
+PSA Airlines Inc.,LFT,51–200 flights,146.0,92.16216216216216
+PSA Airlines Inc.,LIT,51–200 flights,54.0,47.5
+PSA Airlines Inc.,MAF,51–200 flights,81.0,59.875
+PSA Airlines Inc.,MCI,51–200 flights,111.0,57.457142857142856
+PSA Airlines Inc.,MEM,51–200 flights,162.0,59.17142857142857
+PSA Airlines Inc.,MGM,51–200 flights,112.0,71.76923076923077
+PSA Airlines Inc.,MHT,51–200 flights,171.0,53.303030303030305
+PSA Airlines Inc.,MKE,51–200 flights,136.0,91.41379310344827
+PSA Airlines Inc.,MLB,51–200 flights,90.0,102.21052631578948
+PSA Airlines Inc.,MLI,20–50 flights,37.0,48.0
+PSA Airlines Inc.,MSN,51–200 flights,155.0,81.73333333333333
+PSA Airlines Inc.,MSP,51–200 flights,110.0,109.5925925925926
+PSA Airlines Inc.,MSY,51–200 flights,70.0,66.46153846153847
+PSA Airlines Inc.,MYR,51–200 flights,121.0,46.30769230769231
+PSA Airlines Inc.,OKC,20–50 flights,35.0,104.85714285714286
+PSA Airlines Inc.,ORD,"201–1,000 flights",393.0,119.12
+PSA Airlines Inc.,ORF,"201–1,000 flights",240.0,89.2741935483871
+PSA Airlines Inc.,PHL,">1,000 flights",1464.0,91.28636363636363
+PSA Airlines Inc.,PIA,51–200 flights,125.0,84.85714285714286
+PSA Airlines Inc.,PIT,20–50 flights,35.0,59.266666666666666
+PSA Airlines Inc.,PNS,"201–1,000 flights",229.0,82.41935483870968
+PSA Airlines Inc.,PVD,51–200 flights,103.0,70.29629629629629
+PSA Airlines Inc.,PWM,51–200 flights,72.0,74.6923076923077
+PSA Airlines Inc.,RDU,51–200 flights,130.0,69.2
+PSA Airlines Inc.,ROC,51–200 flights,76.0,64.1923076923077
+PSA Airlines Inc.,SAV,"201–1,000 flights",253.0,76.9622641509434
+PSA Airlines Inc.,SBN,51–200 flights,114.0,43.333333333333336
+PSA Airlines Inc.,SDF,51–200 flights,168.0,83.11538461538461
+PSA Airlines Inc.,SGF,51–200 flights,55.0,81.75
+PSA Airlines Inc.,SHV,20–50 flights,24.0,90.0
+PSA Airlines Inc.,SRQ,51–200 flights,52.0,60.1
+PSA Airlines Inc.,STL,51–200 flights,84.0,43.68
+PSA Airlines Inc.,SWO,51–200 flights,60.0,64.33333333333333
+PSA Airlines Inc.,SYR,51–200 flights,55.0,54.8
+PSA Airlines Inc.,TLH,51–200 flights,120.0,84.46875
+PSA Airlines Inc.,TUL,51–200 flights,51.0,62.84615384615385
+PSA Airlines Inc.,TVC,51–200 flights,59.0,89.84615384615384
+PSA Airlines Inc.,TYS,"201–1,000 flights",288.0,88.31645569620254
+PSA Airlines Inc.,VPS,20–50 flights,42.0,102.83333333333333
+PSA Airlines Inc.,VRB,20–50 flights,30.0,78.6
+PSA Airlines Inc.,XNA,51–200 flights,117.0,71.78260869565217
+SkyWest Airlines Inc.,ABI,51–200 flights,90.0,74.42857142857143
+SkyWest Airlines Inc.,ABQ,"201–1,000 flights",484.0,70.05128205128206
+SkyWest Airlines Inc.,ABR,51–200 flights,60.0,54.42857142857143
+SkyWest Airlines Inc.,ACT,20–50 flights,30.0,93.2
+SkyWest Airlines Inc.,ACV,51–200 flights,194.0,74.06818181818181
+SkyWest Airlines Inc.,ALB,51–200 flights,100.0,72.38461538461539
+SkyWest Airlines Inc.,AMA,51–200 flights,110.0,43.30769230769231
+SkyWest Airlines Inc.,APN,51–200 flights,51.0,85.07142857142857
+SkyWest Airlines Inc.,ASE,"201–1,000 flights",474.0,89.24691358024691
+SkyWest Airlines Inc.,ATL,"201–1,000 flights",548.0,84.70769230769231
+SkyWest Airlines Inc.,ATW,"201–1,000 flights",443.0,100.234375
+SkyWest Airlines Inc.,ATY,51–200 flights,60.0,34.714285714285715
+SkyWest Airlines Inc.,AUS,"201–1,000 flights",663.0,107.63829787234043
+SkyWest Airlines Inc.,AVL,51–200 flights,115.0,45.714285714285715
+SkyWest Airlines Inc.,AVP,20–50 flights,27.0,59.76923076923077
+SkyWest Airlines Inc.,AZO,51–200 flights,71.0,71.25
+SkyWest Airlines Inc.,BDL,51–200 flights,51.0,65.76923076923077
+SkyWest Airlines Inc.,BFF,51–200 flights,51.0,131.71428571428572
+SkyWest Airlines Inc.,BFL,"201–1,000 flights",206.0,54.86363636363637
+SkyWest Airlines Inc.,BHM,51–200 flights,174.0,62.36842105263158
+SkyWest Airlines Inc.,BIH,20–50 flights,28.0,154.0
+SkyWest Airlines Inc.,BIL,51–200 flights,128.0,47.76923076923077
+SkyWest Airlines Inc.,BIS,51–200 flights,184.0,51.2
+SkyWest Airlines Inc.,BJI,51–200 flights,60.0,173.33333333333334
+SkyWest Airlines Inc.,BLI,51–200 flights,120.0,37.833333333333336
+SkyWest Airlines Inc.,BNA,"201–1,000 flights",206.0,117.22916666666667
+SkyWest Airlines Inc.,BOI,"201–1,000 flights",922.0,71.94594594594595
+SkyWest Airlines Inc.,BPT,51–200 flights,60.0,119.42857142857143
+SkyWest Airlines Inc.,BRD,51–200 flights,51.0,81.5
+SkyWest Airlines Inc.,BTM,51–200 flights,60.0,161.9090909090909
+SkyWest Airlines Inc.,BTR,51–200 flights,76.0,44.68421052631579
+SkyWest Airlines Inc.,BTV,51–200 flights,144.0,75.1219512195122
+SkyWest Airlines Inc.,BUF,51–200 flights,108.0,62.57142857142857
+SkyWest Airlines Inc.,BUR,"201–1,000 flights",321.0,49.51428571428571
+SkyWest Airlines Inc.,BZN,51–200 flights,170.0,42.19047619047619
+SkyWest Airlines Inc.,CAK,51–200 flights,149.0,88.3076923076923
+SkyWest Airlines Inc.,CDC,51–200 flights,51.0,47.5
+SkyWest Airlines Inc.,CHA,51–200 flights,153.0,67.23913043478261
+SkyWest Airlines Inc.,CHO,51–200 flights,146.0,99.5
+SkyWest Airlines Inc.,CHS,20–50 flights,29.0,49.857142857142854
+SkyWest Airlines Inc.,CID,"201–1,000 flights",286.0,84.35443037974683
+SkyWest Airlines Inc.,CIU,51–200 flights,56.0,132.76923076923077
+SkyWest Airlines Inc.,CKB,20–50 flights,30.0,164.0625
+SkyWest Airlines Inc.,CLD,51–200 flights,120.0,51.388888888888886
+SkyWest Airlines Inc.,CLE,51–200 flights,111.0,102.0
+SkyWest Airlines Inc.,CMH,51–200 flights,73.0,25.714285714285715
+SkyWest Airlines Inc.,COD,51–200 flights,60.0,50.45454545454545
+SkyWest Airlines Inc.,COS,"201–1,000 flights",423.0,72.15384615384616
+SkyWest Airlines Inc.,COU,51–200 flights,136.0,164.84848484848484
+SkyWest Airlines Inc.,CPR,"201–1,000 flights",209.0,61.63157894736842
+SkyWest Airlines Inc.,CRP,51–200 flights,92.0,56.27272727272727
+SkyWest Airlines Inc.,CVG,51–200 flights,126.0,59.07692307692308
+SkyWest Airlines Inc.,CYS,51–200 flights,60.0,101.25
+SkyWest Airlines Inc.,DAY,20–50 flights,30.0,52.0
+SkyWest Airlines Inc.,DDC,51–200 flights,52.0,104.75
+SkyWest Airlines Inc.,DEC,51–200 flights,52.0,67.20833333333333
+SkyWest Airlines Inc.,DEN,">1,000 flights",6091.0,92.25869120654397
+SkyWest Airlines Inc.,DFW,">1,000 flights",1856.0,98.35714285714286
+SkyWest Airlines Inc.,DIK,51–200 flights,52.0,118.84615384615384
+SkyWest Airlines Inc.,DLH,51–200 flights,168.0,71.46808510638297
+SkyWest Airlines Inc.,DRO,"201–1,000 flights",309.0,89.22222222222223
+SkyWest Airlines Inc.,DSM,"201–1,000 flights",225.0,75.21739130434783
+SkyWest Airlines Inc.,DTW,">1,000 flights",2586.0,99.83014354066985
+SkyWest Airlines Inc.,DVL,51–200 flights,52.0,60.125
+SkyWest Airlines Inc.,EAR,51–200 flights,52.0,55.75
+SkyWest Airlines Inc.,EAU,51–200 flights,52.0,156.72222222222223
+SkyWest Airlines Inc.,ECP,20–50 flights,34.0,78.44444444444444
+SkyWest Airlines Inc.,EGE,20–50 flights,47.0,56.0
+SkyWest Airlines Inc.,ELM,51–200 flights,76.0,57.15384615384615
+SkyWest Airlines Inc.,ELP,51–200 flights,169.0,94.94444444444444
+SkyWest Airlines Inc.,ESC,51–200 flights,52.0,25.5
+SkyWest Airlines Inc.,EUG,"201–1,000 flights",313.0,39.0
+SkyWest Airlines Inc.,FAR,"201–1,000 flights",224.0,81.80434782608695
+SkyWest Airlines Inc.,FAT,"201–1,000 flights",533.0,90.66666666666667
+SkyWest Airlines Inc.,FCA,51–200 flights,73.0,36.857142857142854
+SkyWest Airlines Inc.,FLG,51–200 flights,164.0,78.4074074074074
+SkyWest Airlines Inc.,FNT,51–200 flights,180.0,100.38235294117646
+SkyWest Airlines Inc.,FOD,51–200 flights,52.0,74.10526315789474
+SkyWest Airlines Inc.,FSD,"201–1,000 flights",289.0,91.04081632653062
+SkyWest Airlines Inc.,FWA,"201–1,000 flights",301.0,80.44067796610169
+SkyWest Airlines Inc.,GCK,51–200 flights,60.0,54.06666666666667
+SkyWest Airlines Inc.,GEG,"201–1,000 flights",541.0,66.31506849315069
+SkyWest Airlines Inc.,GFK,51–200 flights,102.0,109.53846153846153
+SkyWest Airlines Inc.,GJT,"201–1,000 flights",256.0,97.33333333333333
+SkyWest Airlines Inc.,GRB,"201–1,000 flights",314.0,92.38202247191012
+SkyWest Airlines Inc.,GRI,51–200 flights,56.0,74.5
+SkyWest Airlines Inc.,GRK,51–200 flights,90.0,124.5
+SkyWest Airlines Inc.,GRR,"201–1,000 flights",307.0,74.49253731343283
+SkyWest Airlines Inc.,GSO,51–200 flights,110.0,49.61764705882353
+SkyWest Airlines Inc.,GSP,20–50 flights,47.0,37.5
+SkyWest Airlines Inc.,GTF,51–200 flights,90.0,40.857142857142854
+SkyWest Airlines Inc.,GTR,20–50 flights,30.0,56.90909090909091
+SkyWest Airlines Inc.,GUC,51–200 flights,77.0,43.55555555555556
+SkyWest Airlines Inc.,HIB,51–200 flights,51.0,82.85714285714286
+SkyWest Airlines Inc.,HLN,51–200 flights,120.0,61.8
+SkyWest Airlines Inc.,HOB,51–200 flights,60.0,114.27777777777777
+SkyWest Airlines Inc.,HOU,20–50 flights,24.0,70.4
+SkyWest Airlines Inc.,HSV,51–200 flights,187.0,66.41935483870968
+SkyWest Airlines Inc.,IAD,"201–1,000 flights",242.0,107.33333333333333
+SkyWest Airlines Inc.,IAH,">1,000 flights",1227.0,89.95205479452055
+SkyWest Airlines Inc.,ICT,"201–1,000 flights",353.0,62.70652173913044
+SkyWest Airlines Inc.,IDA,"201–1,000 flights",270.0,77.32608695652173
+SkyWest Airlines Inc.,IND,"201–1,000 flights",282.0,68.10810810810811
+SkyWest Airlines Inc.,INL,51–200 flights,51.0,85.25
+SkyWest Airlines Inc.,JAC,51–200 flights,98.0,83.78571428571429
+SkyWest Airlines Inc.,JAN,20–50 flights,30.0,75.5
+SkyWest Airlines Inc.,JMS,51–200 flights,52.0,77.125
+SkyWest Airlines Inc.,JST,51–200 flights,52.0,125.14285714285714
+SkyWest Airlines Inc.,LAF,20–50 flights,47.0,86.95454545454545
+SkyWest Airlines Inc.,LAN,51–200 flights,86.0,57.1578947368421
+SkyWest Airlines Inc.,LAR,51–200 flights,52.0,58.75
+SkyWest Airlines Inc.,LAS,51–200 flights,175.0,77.66666666666667
+SkyWest Airlines Inc.,LAX,">1,000 flights",3199.0,84.95533498759305
+SkyWest Airlines Inc.,LBB,51–200 flights,68.0,47.4
+SkyWest Airlines Inc.,LBF,51–200 flights,51.0,48.81818181818182
+SkyWest Airlines Inc.,LBL,51–200 flights,52.0,54.0
+SkyWest Airlines Inc.,LEX,51–200 flights,196.0,72.46
+SkyWest Airlines Inc.,LGB,51–200 flights,60.0,35.22222222222222
+SkyWest Airlines Inc.,LIT,"201–1,000 flights",313.0,65.85
+SkyWest Airlines Inc.,LNK,"201–1,000 flights",270.0,81.68131868131869
+SkyWest Airlines Inc.,LRD,20–50 flights,20.0,58.857142857142854
+SkyWest Airlines Inc.,LWB,51–200 flights,57.0,112.76923076923077
+SkyWest Airlines Inc.,LWS,51–200 flights,60.0,47.625
+SkyWest Airlines Inc.,LYH,51–200 flights,60.0,121.57894736842105
+SkyWest Airlines Inc.,MAF,"201–1,000 flights",252.0,95.21052631578948
+SkyWest Airlines Inc.,MBS,51–200 flights,124.0,82.09615384615384
+SkyWest Airlines Inc.,MCI,"201–1,000 flights",240.0,63.4
+SkyWest Airlines Inc.,MCW,51–200 flights,52.0,61.8
+SkyWest Airlines Inc.,MDT,51–200 flights,51.0,79.94736842105263
+SkyWest Airlines Inc.,MDW,51–200 flights,90.0,50.294117647058826
+SkyWest Airlines Inc.,MEI,51–200 flights,52.0,144.0909090909091
+SkyWest Airlines Inc.,MEM,"201–1,000 flights",310.0,66.14814814814815
+SkyWest Airlines Inc.,MFE,51–200 flights,121.0,98.57692307692308
+SkyWest Airlines Inc.,MFR,"201–1,000 flights",364.0,63.4
+SkyWest Airlines Inc.,MGW,51–200 flights,52.0,66.0
+SkyWest Airlines Inc.,MKE,"201–1,000 flights",744.0,83.78538812785388
+SkyWest Airlines Inc.,MLI,"201–1,000 flights",277.0,85.50617283950618
+SkyWest Airlines Inc.,MOB,20–50 flights,30.0,74.0
+SkyWest Airlines Inc.,MOT,51–200 flights,177.0,42.94444444444444
+SkyWest Airlines Inc.,MQT,51–200 flights,52.0,65.9090909090909
+SkyWest Airlines Inc.,MRY,"201–1,000 flights",404.0,56.36231884057971
+SkyWest Airlines Inc.,MSN,"201–1,000 flights",229.0,79.89285714285714
+SkyWest Airlines Inc.,MSO,51–200 flights,111.0,53.666666666666664
+SkyWest Airlines Inc.,MSP,">1,000 flights",2697.0,96.0909090909091
+SkyWest Airlines Inc.,MSY,20–50 flights,30.0,86.6
+SkyWest Airlines Inc.,MYR,20–50 flights,29.0,44.81818181818182
+SkyWest Airlines Inc.,OAJ,51–200 flights,116.0,47.75
+SkyWest Airlines Inc.,OAK,51–200 flights,123.0,93.08333333333333
+SkyWest Airlines Inc.,OKC,"201–1,000 flights",668.0,63.03875968992248
+SkyWest Airlines Inc.,OMA,"201–1,000 flights",460.0,66.01063829787235
+SkyWest Airlines Inc.,ONT,51–200 flights,176.0,49.22222222222222
+SkyWest Airlines Inc.,ORD,">1,000 flights",7133.0,108.28454172366621
+SkyWest Airlines Inc.,ORF,51–200 flights,57.0,60.35294117647059
+SkyWest Airlines Inc.,OTH,20–50 flights,30.0,35.916666666666664
+SkyWest Airlines Inc.,PAH,51–200 flights,52.0,122.33333333333333
+SkyWest Airlines Inc.,PDX,"201–1,000 flights",894.0,69.31868131868131
+SkyWest Airlines Inc.,PHL,20–50 flights,22.0,63.5
+SkyWest Airlines Inc.,PHX,">1,000 flights",2931.0,98.42355371900827
+SkyWest Airlines Inc.,PIA,"201–1,000 flights",236.0,79.43478260869566
+SkyWest Airlines Inc.,PIB,51–200 flights,52.0,42.0
+SkyWest Airlines Inc.,PIH,20–50 flights,30.0,51.333333333333336
+SkyWest Airlines Inc.,PIR,51–200 flights,51.0,65.25
+SkyWest Airlines Inc.,PIT,51–200 flights,133.0,62.583333333333336
+SkyWest Airlines Inc.,PLN,51–200 flights,51.0,32.8
+SkyWest Airlines Inc.,PSC,"201–1,000 flights",379.0,70.98305084745763
+SkyWest Airlines Inc.,PSP,"201–1,000 flights",526.0,81.04040404040404
+SkyWest Airlines Inc.,PVD,51–200 flights,137.0,50.43333333333333
+SkyWest Airlines Inc.,PVU,51–200 flights,82.0,54.421052631578945
+SkyWest Airlines Inc.,PWM,51–200 flights,53.0,54.07692307692308
+SkyWest Airlines Inc.,RAP,"201–1,000 flights",263.0,106.76
+SkyWest Airlines Inc.,RDD,51–200 flights,141.0,59.0
+SkyWest Airlines Inc.,RDM,"201–1,000 flights",325.0,59.64102564102564
+SkyWest Airlines Inc.,RHI,51–200 flights,60.0,68.22222222222223
+SkyWest Airlines Inc.,RIC,20–50 flights,41.0,51.714285714285715
+SkyWest Airlines Inc.,RIW,51–200 flights,60.0,74.2
+SkyWest Airlines Inc.,RKS,51–200 flights,60.0,115.25
+SkyWest Airlines Inc.,RNO,"201–1,000 flights",285.0,56.02857142857143
+SkyWest Airlines Inc.,ROC,51–200 flights,70.0,74.55
+SkyWest Airlines Inc.,ROW,51–200 flights,60.0,52.8
+SkyWest Airlines Inc.,SAF,"201–1,000 flights",385.0,88.25806451612904
+SkyWest Airlines Inc.,SAN,">1,000 flights",1201.0,47.087136929460584
+SkyWest Airlines Inc.,SAT,51–200 flights,146.0,83.52
+SkyWest Airlines Inc.,SAV,20–50 flights,21.0,113.4
+SkyWest Airlines Inc.,SBA,"201–1,000 flights",270.0,56.45454545454545
+SkyWest Airlines Inc.,SBN,"201–1,000 flights",472.0,69.68125
+SkyWest Airlines Inc.,SBP,"201–1,000 flights",259.0,83.58695652173913
+SkyWest Airlines Inc.,SCE,51–200 flights,60.0,92.89655172413794
+SkyWest Airlines Inc.,SDF,"201–1,000 flights",271.0,64.5
+SkyWest Airlines Inc.,SEA,">1,000 flights",2148.0,60.3203125
+SkyWest Airlines Inc.,SFO,">1,000 flights",2577.0,65.404329004329
+SkyWest Airlines Inc.,SGF,51–200 flights,165.0,66.33333333333333
+SkyWest Airlines Inc.,SGU,"201–1,000 flights",405.0,93.5
+SkyWest Airlines Inc.,SHD,51–200 flights,52.0,68.16666666666667
+SkyWest Airlines Inc.,SHR,51–200 flights,78.0,106.42857142857143
+SkyWest Airlines Inc.,SHV,"201–1,000 flights",392.0,121.52272727272727
+SkyWest Airlines Inc.,SJC,"201–1,000 flights",498.0,63.41304347826087
+SkyWest Airlines Inc.,SJT,51–200 flights,90.0,84.2
+SkyWest Airlines Inc.,SLC,">1,000 flights",3094.0,80.23970037453184
+SkyWest Airlines Inc.,SLN,51–200 flights,81.0,142.53846153846155
+SkyWest Airlines Inc.,SMF,"201–1,000 flights",687.0,64.42857142857143
+SkyWest Airlines Inc.,SMX,51–200 flights,60.0,58.333333333333336
+SkyWest Airlines Inc.,SNA,"201–1,000 flights",427.0,56.92783505154639
+SkyWest Airlines Inc.,STL,"201–1,000 flights",228.0,63.611111111111114
+SkyWest Airlines Inc.,STS,"201–1,000 flights",438.0,56.35849056603774
+SkyWest Airlines Inc.,SUN,51–200 flights,155.0,51.0
+SkyWest Airlines Inc.,SUX,51–200 flights,77.0,75.18181818181819
+SkyWest Airlines Inc.,SYR,20–50 flights,27.0,52.333333333333336
+SkyWest Airlines Inc.,TUL,"201–1,000 flights",402.0,79.56338028169014
+SkyWest Airlines Inc.,TUS,"201–1,000 flights",859.0,51.51748251748252
+SkyWest Airlines Inc.,TVC,51–200 flights,95.0,44.857142857142854
+SkyWest Airlines Inc.,TWF,51–200 flights,82.0,113.7
+SkyWest Airlines Inc.,TYR,51–200 flights,90.0,136.35294117647058
+SkyWest Airlines Inc.,TYS,51–200 flights,107.0,74.5909090909091
+SkyWest Airlines Inc.,XNA,"201–1,000 flights",218.0,56.0
+SkyWest Airlines Inc.,XWA,51–200 flights,174.0,123.28125
+SkyWest Airlines Inc.,YUM,51–200 flights,146.0,70.6
+Piedmont Airlines,AGS,51–200 flights,124.0,41.53846153846154
+Piedmont Airlines,ALB,51–200 flights,120.0,57.8
+Piedmont Airlines,ART,51–200 flights,60.0,29.0
+Piedmont Airlines,AVL,51–200 flights,199.0,41.36842105263158
+Piedmont Airlines,BDL,51–200 flights,60.0,54.0
+Piedmont Airlines,BGR,51–200 flights,114.0,57.0
+Piedmont Airlines,BOS,20–50 flights,24.0,87.33333333333333
+Piedmont Airlines,BUF,51–200 flights,60.0,47.833333333333336
+Piedmont Airlines,CAE,"201–1,000 flights",329.0,46.48275862068966
+Piedmont Airlines,CHA,"201–1,000 flights",234.0,36.5
+Piedmont Airlines,CHO,"201–1,000 flights",204.0,39.69230769230769
+Piedmont Airlines,CHS,51–200 flights,61.0,36.857142857142854
+Piedmont Airlines,CLT,">1,000 flights",4348.0,70.41025641025641
+Piedmont Airlines,CMH,20–50 flights,36.0,52.0
+Piedmont Airlines,ERI,51–200 flights,90.0,64.0
+Piedmont Airlines,EVV,51–200 flights,90.0,65.75
+Piedmont Airlines,EWN,51–200 flights,121.0,50.333333333333336
+Piedmont Airlines,FAY,51–200 flights,200.0,39.22727272727273
+Piedmont Airlines,FLO,51–200 flights,60.0,55.714285714285715
+Piedmont Airlines,FWA,51–200 flights,90.0,50.4
+Piedmont Airlines,GNV,51–200 flights,146.0,41.93333333333333
+Piedmont Airlines,GPT,20–50 flights,36.0,48.6
+Piedmont Airlines,GSO,"201–1,000 flights",251.0,55.529411764705884
+Piedmont Airlines,GSP,51–200 flights,195.0,60.5
+Piedmont Airlines,HSV,51–200 flights,144.0,44.5
+Piedmont Airlines,HTS,51–200 flights,90.0,46.666666666666664
+Piedmont Airlines,ILM,"201–1,000 flights",228.0,45.285714285714285
+Piedmont Airlines,JAN,51–200 flights,66.0,49.0
+Piedmont Airlines,LYH,51–200 flights,170.0,55.5
+Piedmont Airlines,MDT,"201–1,000 flights",299.0,65.52941176470588
+Piedmont Airlines,MGM,51–200 flights,60.0,105.33333333333333
+Piedmont Airlines,MHT,51–200 flights,90.0,55.5
+Piedmont Airlines,MLI,51–200 flights,60.0,107.75
+Piedmont Airlines,MOB,51–200 flights,90.0,50.285714285714285
+Piedmont Airlines,MYR,20–50 flights,42.0,54.8
+Piedmont Airlines,OAJ,51–200 flights,146.0,49.04347826086956
+Piedmont Airlines,ORF,51–200 flights,68.0,27.714285714285715
+Piedmont Airlines,ORH,20–50 flights,30.0,54.5
+Piedmont Airlines,PGV,51–200 flights,90.0,33.76923076923077
+Piedmont Airlines,PHF,51–200 flights,120.0,33.0
+Piedmont Airlines,PHL,">1,000 flights",2176.0,88.98048780487805
+Piedmont Airlines,PIT,20–50 flights,44.0,64.42857142857143
+Piedmont Airlines,PVD,51–200 flights,87.0,25.666666666666668
+Piedmont Airlines,PWM,51–200 flights,79.0,26.428571428571427
+Piedmont Airlines,ROA,"201–1,000 flights",280.0,35.09375
+Piedmont Airlines,ROC,51–200 flights,131.0,48.78947368421053
+Piedmont Airlines,SAV,51–200 flights,119.0,46.6
+Piedmont Airlines,SBY,51–200 flights,152.0,51.85
+Piedmont Airlines,SCE,51–200 flights,90.0,36.375
+Piedmont Airlines,SGF,20–50 flights,29.0,16.666666666666668
+Piedmont Airlines,SYR,51–200 flights,96.0,26.375
+Piedmont Airlines,TLH,51–200 flights,145.0,48.083333333333336
+Piedmont Airlines,TRI,51–200 flights,170.0,92.11111111111111
+Piedmont Airlines,TYS,"201–1,000 flights",210.0,55.266666666666666
+Horizon Air,AKN,20–50 flights,21.0,45.0
+Horizon Air,ALW,51–200 flights,60.0,61.75
+Horizon Air,ANC,"201–1,000 flights",206.0,37.77272727272727
+Horizon Air,BIL,51–200 flights,90.0,95.0
+Horizon Air,BOI,"201–1,000 flights",492.0,53.9
+Horizon Air,BZN,51–200 flights,111.0,49.6
+Horizon Air,DLG,20–50 flights,30.0,26.666666666666668
+Horizon Air,EAT,51–200 flights,60.0,39.0
+Horizon Air,ELP,20–50 flights,30.0,34.666666666666664
+Horizon Air,EUG,51–200 flights,177.0,40.12
+Horizon Air,FCA,51–200 flights,107.0,38.333333333333336
+Horizon Air,GEG,"201–1,000 flights",328.0,36.5
+Horizon Air,HLN,20–50 flights,30.0,134.0
+Horizon Air,ICT,20–50 flights,30.0,29.0
+Horizon Air,LAS,51–200 flights,122.0,48.59574468085106
+Horizon Air,LAX,51–200 flights,130.0,48.529411764705884
+Horizon Air,MRY,20–50 flights,21.0,39.0
+Horizon Air,OAK,51–200 flights,96.0,23.714285714285715
+Horizon Air,OME,20–50 flights,25.0,89.66666666666667
+Horizon Air,ONT,51–200 flights,84.0,48.166666666666664
+Horizon Air,OTZ,20–50 flights,30.0,23.333333333333332
+Horizon Air,PAE,51–200 flights,176.0,67.59183673469387
+Horizon Air,PDX,">1,000 flights",1093.0,64.33870967741936
+Horizon Air,PHX,51–200 flights,117.0,39.38461538461539
+Horizon Air,PSC,51–200 flights,101.0,31.545454545454547
+Horizon Air,PSP,51–200 flights,66.0,62.892857142857146
+Horizon Air,PUW,51–200 flights,113.0,27.5
+Horizon Air,RDM,51–200 flights,164.0,69.88461538461539
+Horizon Air,RNO,51–200 flights,158.0,31.857142857142858
+Horizon Air,SAN,"201–1,000 flights",558.0,48.657303370786515
+Horizon Air,SBA,20–50 flights,31.0,23.0
+Horizon Air,SBP,51–200 flights,58.0,31.857142857142858
+Horizon Air,SEA,">1,000 flights",1542.0,54.03361344537815
+Horizon Air,SFO,51–200 flights,181.0,55.64150943396226
+Horizon Air,SJC,51–200 flights,106.0,36.25
+Endeavor Air Inc.,ABE,51–200 flights,90.0,54.357142857142854
+Endeavor Air Inc.,ABY,51–200 flights,90.0,82.07142857142857
+Endeavor Air Inc.,AEX,51–200 flights,90.0,90.125
+Endeavor Air Inc.,AGS,"201–1,000 flights",217.0,60.516666666666666
+Endeavor Air Inc.,ALB,51–200 flights,61.0,58.125
+Endeavor Air Inc.,ATL,">1,000 flights",3199.0,82.32194244604317
+Endeavor Air Inc.,AUS,51–200 flights,88.0,52.714285714285715
+Endeavor Air Inc.,AVL,51–200 flights,131.0,79.78571428571429
+Endeavor Air Inc.,BGR,51–200 flights,89.0,102.5
+Endeavor Air Inc.,BHM,51–200 flights,86.0,80.65217391304348
+Endeavor Air Inc.,BIS,51–200 flights,51.0,89.66666666666667
+Endeavor Air Inc.,BMI,51–200 flights,90.0,45.5
+Endeavor Air Inc.,BQK,51–200 flights,90.0,49.166666666666664
+Endeavor Air Inc.,BTR,51–200 flights,66.0,45.0
+Endeavor Air Inc.,BTV,51–200 flights,116.0,163.88235294117646
+Endeavor Air Inc.,BUF,51–200 flights,191.0,40.35897435897436
+Endeavor Air Inc.,CAE,51–200 flights,110.0,124.75
+Endeavor Air Inc.,CHA,"201–1,000 flights",264.0,68.76119402985074
+Endeavor Air Inc.,CHO,51–200 flights,172.0,80.34146341463415
+Endeavor Air Inc.,CHS,"201–1,000 flights",201.0,76.53846153846153
+Endeavor Air Inc.,CLE,"201–1,000 flights",295.0,69.34285714285714
+Endeavor Air Inc.,CLT,"201–1,000 flights",222.0,75.44642857142857
+Endeavor Air Inc.,CMH,51–200 flights,107.0,88.17857142857143
+Endeavor Air Inc.,CRW,51–200 flights,111.0,45.55
+Endeavor Air Inc.,CSG,51–200 flights,86.0,58.13636363636363
+Endeavor Air Inc.,CVG,"201–1,000 flights",715.0,94.89655172413794
+Endeavor Air Inc.,CWA,51–200 flights,60.0,53.2
+Endeavor Air Inc.,DCA,"201–1,000 flights",231.0,52.936708860759495
+Endeavor Air Inc.,DHN,51–200 flights,86.0,81.55
+Endeavor Air Inc.,DSM,"201–1,000 flights",202.0,59.204081632653065
+Endeavor Air Inc.,DTW,">1,000 flights",1541.0,101.27241379310345
+Endeavor Air Inc.,ECP,20–50 flights,30.0,85.5
+Endeavor Air Inc.,EVV,51–200 flights,100.0,69.55555555555556
+Endeavor Air Inc.,EWR,51–200 flights,152.0,58.18518518518518
+Endeavor Air Inc.,FAY,51–200 flights,116.0,62.6551724137931
+Endeavor Air Inc.,FWA,51–200 flights,90.0,42.333333333333336
+Endeavor Air Inc.,GRR,51–200 flights,110.0,78.60714285714286
+Endeavor Air Inc.,GSO,51–200 flights,113.0,93.37931034482759
+Endeavor Air Inc.,GSP,51–200 flights,146.0,79.28571428571429
+Endeavor Air Inc.,GTR,51–200 flights,60.0,60.5
+Endeavor Air Inc.,HPN,51–200 flights,168.0,75.53125
+Endeavor Air Inc.,HSV,51–200 flights,98.0,61.708333333333336
+Endeavor Air Inc.,IAD,20–50 flights,30.0,30.0
+Endeavor Air Inc.,ILM,51–200 flights,96.0,72.10526315789474
+Endeavor Air Inc.,IND,"201–1,000 flights",229.0,61.270833333333336
+Endeavor Air Inc.,JAN,51–200 flights,67.0,70.25
+Endeavor Air Inc.,JAX,51–200 flights,146.0,69.39285714285714
+Endeavor Air Inc.,JFK,">1,000 flights",1999.0,79.78466076696165
+Endeavor Air Inc.,LEX,51–200 flights,81.0,76.62962962962963
+Endeavor Air Inc.,LFT,51–200 flights,116.0,67.95
+Endeavor Air Inc.,LGA,">1,000 flights",2563.0,101.65532544378698
+Endeavor Air Inc.,LIT,20–50 flights,26.0,87.875
+Endeavor Air Inc.,MCI,51–200 flights,107.0,58.54545454545455
+Endeavor Air Inc.,MDT,51–200 flights,60.0,95.66666666666667
+Endeavor Air Inc.,MDW,51–200 flights,90.0,55.65625
+Endeavor Air Inc.,MEM,51–200 flights,61.0,82.63157894736842
+Endeavor Air Inc.,MGM,51–200 flights,146.0,63.5
+Endeavor Air Inc.,MKE,51–200 flights,62.0,73.27272727272727
+Endeavor Air Inc.,MLI,51–200 flights,60.0,54.0
+Endeavor Air Inc.,MLU,51–200 flights,86.0,58.708333333333336
+Endeavor Air Inc.,MOB,51–200 flights,56.0,61.55555555555556
+Endeavor Air Inc.,MSN,51–200 flights,89.0,60.36363636363637
+Endeavor Air Inc.,MSP,">1,000 flights",1044.0,110.14124293785311
+Endeavor Air Inc.,OKC,51–200 flights,58.0,52.0
+Endeavor Air Inc.,OMA,51–200 flights,82.0,58.07692307692308
+Endeavor Air Inc.,ORD,51–200 flights,129.0,66.33333333333333
+Endeavor Air Inc.,ORF,"201–1,000 flights",235.0,61.13846153846154
+Endeavor Air Inc.,ORH,20–50 flights,26.0,92.33333333333333
+Endeavor Air Inc.,PIT,51–200 flights,195.0,43.526315789473685
+Endeavor Air Inc.,PNS,20–50 flights,32.0,88.5
+Endeavor Air Inc.,PWM,51–200 flights,62.0,42.0
+Endeavor Air Inc.,RAP,20–50 flights,25.0,64.25
+Endeavor Air Inc.,RDU,"201–1,000 flights",655.0,70.91489361702128
+Endeavor Air Inc.,RIC,51–200 flights,189.0,64.2127659574468
+Endeavor Air Inc.,ROA,51–200 flights,89.0,72.93333333333334
+Endeavor Air Inc.,ROC,"201–1,000 flights",264.0,69.74603174603175
+Endeavor Air Inc.,RST,51–200 flights,76.0,74.83333333333333
+Endeavor Air Inc.,SAV,51–200 flights,123.0,55.166666666666664
+Endeavor Air Inc.,SGF,51–200 flights,88.0,113.6842105263158
+Endeavor Air Inc.,STL,51–200 flights,63.0,76.84615384615384
+Endeavor Air Inc.,SYR,51–200 flights,183.0,88.92682926829268
+Endeavor Air Inc.,TRI,51–200 flights,146.0,66.19354838709677
+Endeavor Air Inc.,TUL,20–50 flights,26.0,77.27272727272727
+Endeavor Air Inc.,TYS,"201–1,000 flights",318.0,81.04109589041096
+Endeavor Air Inc.,VLD,51–200 flights,86.0,80.86666666666666
+Endeavor Air Inc.,XNA,"201–1,000 flights",243.0,78.18840579710145
+American Airlines Network,ABQ,"201–1,000 flights",207.0,61.31884057971015
+American Airlines Network,AGS,20–50 flights,28.0,45.5
+American Airlines Network,ALB,51–200 flights,90.0,58.0
+American Airlines Network,ANC,20–50 flights,30.0,55.61538461538461
+American Airlines Network,ATL,"201–1,000 flights",597.0,68.46835443037975
+American Airlines Network,AUS,">1,000 flights",1038.0,72.14827586206897
+American Airlines Network,AVL,51–200 flights,66.0,81.70588235294117
+American Airlines Network,BDL,"201–1,000 flights",360.0,59.06382978723404
+American Airlines Network,BFL,20–50 flights,24.0,68.0
+American Airlines Network,BNA,"201–1,000 flights",773.0,67.17567567567568
+American Airlines Network,BOI,51–200 flights,84.0,52.59375
+American Airlines Network,BOS,">1,000 flights",1481.0,62.28292682926829
+American Airlines Network,BTV,20–50 flights,22.0,38.857142857142854
+American Airlines Network,BUF,51–200 flights,197.0,56.68
+American Airlines Network,BUR,51–200 flights,60.0,40.92
+American Airlines Network,BWI,"201–1,000 flights",285.0,71.97435897435898
+American Airlines Network,BZN,20–50 flights,48.0,73.27272727272727
+American Airlines Network,CHS,"201–1,000 flights",464.0,60.10084033613445
+American Airlines Network,CID,51–200 flights,129.0,71.68
+American Airlines Network,CLE,"201–1,000 flights",444.0,65.5798319327731
+American Airlines Network,CLT,">1,000 flights",9895.0,93.13488372093023
+American Airlines Network,CMH,"201–1,000 flights",361.0,74.06741573033707
+American Airlines Network,COS,51–200 flights,87.0,55.464285714285715
+American Airlines Network,CVG,"201–1,000 flights",234.0,66.54
+American Airlines Network,DAB,51–200 flights,56.0,46.375
+American Airlines Network,DCA,">1,000 flights",2137.0,73.56644880174292
+American Airlines Network,DEN,"201–1,000 flights",748.0,66.11
+American Airlines Network,DFW,">1,000 flights",13866.0,89.87451533309834
+American Airlines Network,DSM,"201–1,000 flights",226.0,68.02272727272727
+American Airlines Network,DTW,"201–1,000 flights",429.0,71.59139784946237
+American Airlines Network,ECP,20–50 flights,24.0,49.0
+American Airlines Network,ELP,51–200 flights,171.0,62.013888888888886
+American Airlines Network,EUG,51–200 flights,52.0,87.875
+American Airlines Network,EWR,"201–1,000 flights",552.0,64.27972027972028
+American Airlines Network,EYW,"201–1,000 flights",205.0,66.09677419354838
+American Airlines Network,FAT,51–200 flights,184.0,55.326530612244895
+American Airlines Network,FLL,"201–1,000 flights",755.0,69.72375690607734
+American Airlines Network,FSD,51–200 flights,60.0,72.125
+American Airlines Network,GEG,51–200 flights,117.0,46.294117647058826
+American Airlines Network,GRR,"201–1,000 flights",268.0,89.65217391304348
+American Airlines Network,GSO,51–200 flights,84.0,61.95
+American Airlines Network,GSP,51–200 flights,89.0,57.42857142857143
+American Airlines Network,HNL,"201–1,000 flights",228.0,37.77777777777778
+American Airlines Network,IAD,51–200 flights,135.0,82.62068965517241
+American Airlines Network,IAH,"201–1,000 flights",655.0,76.16483516483517
+American Airlines Network,ICT,51–200 flights,55.0,116.21052631578948
+American Airlines Network,ILM,51–200 flights,172.0,64.82857142857142
+American Airlines Network,IND,"201–1,000 flights",673.0,63.72514619883041
+American Airlines Network,JAC,20–50 flights,42.0,41.375
+American Airlines Network,JAX,"201–1,000 flights",579.0,58.552845528455286
+American Airlines Network,JFK,">1,000 flights",1266.0,70.60687022900764
+American Airlines Network,KOA,51–200 flights,60.0,54.74193548387097
+American Airlines Network,LAS,">1,000 flights",1293.0,61.74229691876751
+American Airlines Network,LAX,">1,000 flights",2452.0,67.18367346938776
+American Airlines Network,LEX,20–50 flights,36.0,93.0909090909091
+American Airlines Network,LGA,">1,000 flights",1461.0,69.15754923413567
+American Airlines Network,LIH,51–200 flights,60.0,43.91304347826087
+American Airlines Network,LIT,51–200 flights,59.0,66.5
+American Airlines Network,MCI,"201–1,000 flights",372.0,70.09278350515464
+American Airlines Network,MCO,">1,000 flights",1729.0,64.29864253393666
+American Airlines Network,MDT,51–200 flights,137.0,61.82051282051282
+American Airlines Network,MEM,"201–1,000 flights",291.0,62.73076923076923
+American Airlines Network,MFE,51–200 flights,151.0,73.70769230769231
+American Airlines Network,MIA,">1,000 flights",5402.0,83.86299892125135
+American Airlines Network,MKE,51–200 flights,193.0,43.48837209302326
+American Airlines Network,MSN,"201–1,000 flights",209.0,58.40384615384615
+American Airlines Network,MSP,"201–1,000 flights",342.0,78.18604651162791
+American Airlines Network,MSY,"201–1,000 flights",735.0,67.80423280423281
+American Airlines Network,MTJ,20–50 flights,30.0,69.0
+American Airlines Network,MYR,51–200 flights,169.0,59.42857142857143
+American Airlines Network,OGG,51–200 flights,126.0,42.91428571428571
+American Airlines Network,OKC,"201–1,000 flights",228.0,62.208333333333336
+American Airlines Network,OMA,"201–1,000 flights",217.0,59.53061224489796
+American Airlines Network,ONT,"201–1,000 flights",270.0,64.15189873417721
+American Airlines Network,ORD,">1,000 flights",5721.0,95.71740662438337
+American Airlines Network,ORF,"201–1,000 flights",273.0,59.43939393939394
+American Airlines Network,PBI,"201–1,000 flights",613.0,80.15107913669065
+American Airlines Network,PDX,"201–1,000 flights",366.0,67.78151260504201
+American Airlines Network,PHL,">1,000 flights",3976.0,102.62341772151899
+American Airlines Network,PHX,">1,000 flights",4749.0,87.30824372759857
+American Airlines Network,PIT,"201–1,000 flights",561.0,78.37704918032787
+American Airlines Network,PNS,"201–1,000 flights",208.0,50.26470588235294
+American Airlines Network,PSP,"201–1,000 flights",210.0,65.28333333333333
+American Airlines Network,PVD,"201–1,000 flights",214.0,69.46938775510205
+American Airlines Network,PWM,51–200 flights,103.0,52.6
+American Airlines Network,RDU,"201–1,000 flights",785.0,67.85945945945946
+American Airlines Network,RIC,"201–1,000 flights",315.0,68.97402597402598
+American Airlines Network,RNO,51–200 flights,195.0,63.67272727272727
+American Airlines Network,ROC,51–200 flights,88.0,56.85
+American Airlines Network,RSW,"201–1,000 flights",612.0,71.48101265822785
+American Airlines Network,SAN,"201–1,000 flights",804.0,50.27160493827161
+American Airlines Network,SAT,"201–1,000 flights",591.0,66.0880503144654
+American Airlines Network,SAV,51–200 flights,175.0,66.31914893617021
+American Airlines Network,SBA,51–200 flights,68.0,123.63636363636364
+American Airlines Network,SBP,51–200 flights,59.0,69.53333333333333
+American Airlines Network,SDF,"201–1,000 flights",254.0,74.04761904761905
+American Airlines Network,SEA,"201–1,000 flights",563.0,51.804054054054056
+American Airlines Network,SFO,"201–1,000 flights",998.0,57.12048192771084
+American Airlines Network,SJC,51–200 flights,143.0,47.41935483870968
+American Airlines Network,SJU,"201–1,000 flights",482.0,52.89795918367347
+American Airlines Network,SMF,"201–1,000 flights",310.0,56.95180722891566
+American Airlines Network,SNA,"201–1,000 flights",556.0,56.98347107438016
+American Airlines Network,SRQ,51–200 flights,190.0,67.31818181818181
+American Airlines Network,STL,"201–1,000 flights",525.0,74.33333333333333
+American Airlines Network,STX,51–200 flights,70.0,85.63636363636364
+American Airlines Network,SYR,51–200 flights,166.0,45.97435897435897
+American Airlines Network,TPA,">1,000 flights",1204.0,64.83783783783784
+American Airlines Network,TUL,"201–1,000 flights",203.0,59.075
+American Airlines Network,TUS,"201–1,000 flights",234.0,70.80263157894737
+American Airlines Network,VPS,51–200 flights,145.0,50.458333333333336
+American Airlines Network,XNA,51–200 flights,53.0,63.78947368421053
+Alaska Airlines Network,ABQ,20–50 flights,36.0,31.333333333333332
+Alaska Airlines Network,ADQ,51–200 flights,60.0,40.75
+Alaska Airlines Network,ANC,">1,000 flights",1093.0,51.48529411764706
+Alaska Airlines Network,ATL,51–200 flights,86.0,22.307692307692307
+Alaska Airlines Network,AUS,51–200 flights,144.0,33.416666666666664
+Alaska Airlines Network,BET,51–200 flights,60.0,34.166666666666664
+Alaska Airlines Network,BNA,51–200 flights,90.0,32.4
+Alaska Airlines Network,BOI,"201–1,000 flights",206.0,49.310344827586206
+Alaska Airlines Network,BOS,51–200 flights,161.0,44.1764705882353
+Alaska Airlines Network,BRW,20–50 flights,30.0,51.0
+Alaska Airlines Network,BUR,"201–1,000 flights",204.0,47.5
+Alaska Airlines Network,BWI,20–50 flights,38.0,84.5
+Alaska Airlines Network,BZN,20–50 flights,33.0,26.6
+Alaska Airlines Network,CDV,51–200 flights,60.0,39.0
+Alaska Airlines Network,CHS,20–50 flights,30.0,34.0
+Alaska Airlines Network,CLE,20–50 flights,30.0,43.25
+Alaska Airlines Network,CMH,20–50 flights,30.0,27.6
+Alaska Airlines Network,CVG,20–50 flights,30.0,48.333333333333336
+Alaska Airlines Network,DCA,51–200 flights,180.0,42.3
+Alaska Airlines Network,DEN,"201–1,000 flights",220.0,45.642857142857146
+Alaska Airlines Network,DFW,51–200 flights,174.0,34.375
+Alaska Airlines Network,DTW,20–50 flights,40.0,59.5
+Alaska Airlines Network,EUG,20–50 flights,30.0,74.0
+Alaska Airlines Network,EWR,"201–1,000 flights",265.0,40.095238095238095
+Alaska Airlines Network,FAI,"201–1,000 flights",288.0,33.15384615384615
+Alaska Airlines Network,FAT,20–50 flights,30.0,24.6
+Alaska Airlines Network,GEG,"201–1,000 flights",226.0,32.21212121212121
+Alaska Airlines Network,HNL,">1,000 flights",2805.0,49.51891891891892
+Alaska Airlines Network,IAD,51–200 flights,97.0,36.81818181818182
+Alaska Airlines Network,IAH,51–200 flights,90.0,25.866666666666667
+Alaska Airlines Network,IND,51–200 flights,51.0,35.57142857142857
+Alaska Airlines Network,ITO,"201–1,000 flights",420.0,36.36363636363637
+Alaska Airlines Network,JFK,"201–1,000 flights",345.0,44.13513513513514
+Alaska Airlines Network,JNU,"201–1,000 flights",330.0,64.93548387096774
+Alaska Airlines Network,KOA,"201–1,000 flights",784.0,37.419117647058826
+Alaska Airlines Network,KTN,51–200 flights,180.0,58.958333333333336
+Alaska Airlines Network,LAS,"201–1,000 flights",691.0,61.0
+Alaska Airlines Network,LAX,"201–1,000 flights",936.0,44.23225806451613
+Alaska Airlines Network,LGB,51–200 flights,60.0,34.916666666666664
+Alaska Airlines Network,LIH,"201–1,000 flights",820.0,36.11363636363637
+Alaska Airlines Network,MCI,51–200 flights,87.0,75.8
+Alaska Airlines Network,MCO,"201–1,000 flights",211.0,47.88461538461539
+Alaska Airlines Network,MIA,51–200 flights,51.0,27.5
+Alaska Airlines Network,MKE,20–50 flights,36.0,24.0
+Alaska Airlines Network,MSO,20–50 flights,47.0,26.2
+Alaska Airlines Network,MSP,51–200 flights,89.0,58.42857142857143
+Alaska Airlines Network,MSY,51–200 flights,90.0,43.0
+Alaska Airlines Network,OAK,51–200 flights,150.0,37.925925925925924
+Alaska Airlines Network,OGG,">1,000 flights",1272.0,40.431372549019606
+Alaska Airlines Network,OKC,20–50 flights,30.0,36.0
+Alaska Airlines Network,OMA,20–50 flights,35.0,42.666666666666664
+Alaska Airlines Network,OME,20–50 flights,35.0,30.5
+Alaska Airlines Network,ONT,51–200 flights,152.0,56.470588235294116
+Alaska Airlines Network,ORD,"201–1,000 flights",232.0,49.56818181818182
+Alaska Airlines Network,OTZ,20–50 flights,30.0,127.25
+Alaska Airlines Network,PAE,51–200 flights,132.0,25.363636363636363
+Alaska Airlines Network,PDX,">1,000 flights",1973.0,54.85353535353536
+Alaska Airlines Network,PHL,51–200 flights,60.0,81.5
+Alaska Airlines Network,PHX,"201–1,000 flights",554.0,58.92857142857143
+Alaska Airlines Network,PIT,20–50 flights,30.0,57.333333333333336
+Alaska Airlines Network,PSG,51–200 flights,60.0,88.0909090909091
+Alaska Airlines Network,PSP,"201–1,000 flights",274.0,43.69230769230769
+Alaska Airlines Network,RDM,51–200 flights,60.0,23.875
+Alaska Airlines Network,RDU,51–200 flights,60.0,32.2
+Alaska Airlines Network,RNO,20–50 flights,50.0,54.2
+Alaska Airlines Network,SAN,">1,000 flights",1172.0,45.88356164383562
+Alaska Airlines Network,SAT,20–50 flights,30.0,23.25
+Alaska Airlines Network,SBA,20–50 flights,30.0,30.666666666666668
+Alaska Airlines Network,SCC,20–50 flights,44.0,19.0
+Alaska Airlines Network,SEA,">1,000 flights",6097.0,52.42219541616405
+Alaska Airlines Network,SFO,"201–1,000 flights",963.0,47.82697201017812
+Alaska Airlines Network,SIT,51–200 flights,90.0,76.22222222222223
+Alaska Airlines Network,SJC,"201–1,000 flights",222.0,33.857142857142854
+Alaska Airlines Network,SLC,51–200 flights,134.0,39.55555555555556
+Alaska Airlines Network,SMF,"201–1,000 flights",326.0,38.027027027027025
+Alaska Airlines Network,SNA,"201–1,000 flights",347.0,42.458333333333336
+Alaska Airlines Network,STS,20–50 flights,30.0,22.0
+Alaska Airlines Network,TPA,51–200 flights,90.0,75.6923076923077
+Alaska Airlines Network,TUS,51–200 flights,60.0,35.666666666666664
+Alaska Airlines Network,WRG,51–200 flights,60.0,84.22222222222223
+Alaska Airlines Network,YAK,51–200 flights,60.0,30.333333333333332
+JetBlue Airways,ALB,51–200 flights,111.0,51.95454545454545
+JetBlue Airways,ATL,"201–1,000 flights",218.0,63.868852459016395
+JetBlue Airways,AUS,51–200 flights,81.0,55.96296296296296
+JetBlue Airways,BDL,"201–1,000 flights",369.0,60.157407407407405
+JetBlue Airways,BNA,51–200 flights,111.0,48.916666666666664
+JetBlue Airways,BOS,">1,000 flights",3310.0,62.462253193960514
+JetBlue Airways,BQN,51–200 flights,103.0,54.064516129032256
+JetBlue Airways,BUF,"201–1,000 flights",211.0,58.755102040816325
+JetBlue Airways,CHS,51–200 flights,164.0,53.05555555555556
+JetBlue Airways,CLE,51–200 flights,73.0,72.0
+JetBlue Airways,DAB,51–200 flights,60.0,40.75
+JetBlue Airways,DCA,"201–1,000 flights",543.0,72.38216560509554
+JetBlue Airways,DEN,51–200 flights,75.0,55.90909090909091
+JetBlue Airways,DFW,20–50 flights,30.0,57.666666666666664
+JetBlue Airways,DTW,51–200 flights,71.0,58.166666666666664
+JetBlue Airways,EWR,"201–1,000 flights",462.0,69.24545454545455
+JetBlue Airways,EYW,20–50 flights,28.0,66.0
+JetBlue Airways,FLL,">1,000 flights",2214.0,62.81144781144781
+JetBlue Airways,HPN,"201–1,000 flights",450.0,55.9327731092437
+JetBlue Airways,IAH,20–50 flights,30.0,16.0
+JetBlue Airways,ISP,51–200 flights,161.0,66.3
+JetBlue Airways,JAX,51–200 flights,155.0,70.16
+JetBlue Airways,JFK,">1,000 flights",2898.0,61.84859813084112
+JetBlue Airways,LAS,"201–1,000 flights",396.0,43.34722222222222
+JetBlue Airways,LAX,"201–1,000 flights",594.0,47.722972972972975
+JetBlue Airways,LGA,"201–1,000 flights",379.0,64.95333333333333
+JetBlue Airways,MCO,">1,000 flights",1710.0,62.90716180371353
+JetBlue Airways,MHT,51–200 flights,60.0,45.75
+JetBlue Airways,MSY,51–200 flights,130.0,53.21212121212121
+JetBlue Airways,ORD,51–200 flights,69.0,69.95454545454545
+JetBlue Airways,ORF,51–200 flights,68.0,37.44444444444444
+JetBlue Airways,ORH,51–200 flights,110.0,58.0
+JetBlue Airways,PBI,"201–1,000 flights",902.0,69.92549019607843
+JetBlue Airways,PHL,51–200 flights,167.0,55.40425531914894
+JetBlue Airways,PHX,51–200 flights,115.0,57.77272727272727
+JetBlue Airways,PIT,51–200 flights,117.0,81.96551724137932
+JetBlue Airways,PQI,20–50 flights,30.0,45.2
+JetBlue Airways,PSE,20–50 flights,30.0,70.25
+JetBlue Airways,PVD,"201–1,000 flights",259.0,70.47692307692307
+JetBlue Airways,PWM,51–200 flights,58.0,61.69230769230769
+JetBlue Airways,RDU,"201–1,000 flights",240.0,56.19230769230769
+JetBlue Airways,RIC,51–200 flights,168.0,64.69047619047619
+JetBlue Airways,ROC,51–200 flights,51.0,45.857142857142854
+JetBlue Airways,RSW,"201–1,000 flights",514.0,57.03883495145631
+JetBlue Airways,SAN,51–200 flights,144.0,65.54545454545455
+JetBlue Airways,SAV,51–200 flights,121.0,58.0
+JetBlue Airways,SFO,"201–1,000 flights",357.0,49.12844036697248
+JetBlue Airways,SJU,">1,000 flights",1026.0,49.71111111111111
+JetBlue Airways,SLC,20–50 flights,30.0,65.77777777777777
+JetBlue Airways,SRQ,51–200 flights,101.0,72.75
+JetBlue Airways,STT,51–200 flights,58.0,39.333333333333336
+JetBlue Airways,STX,20–50 flights,30.0,42.5
+JetBlue Airways,SYR,51–200 flights,141.0,45.6578947368421
+JetBlue Airways,TPA,"201–1,000 flights",433.0,49.76237623762376
+JetBlue Airways,VPS,20–50 flights,48.0,58.857142857142854
+JetBlue Airways,VRB,51–200 flights,60.0,61.125
+CommuteAir LLC dba CommuteAir,ALB,51–200 flights,119.0,104.6
+CommuteAir LLC dba CommuteAir,AMA,51–200 flights,77.0,60.0
+CommuteAir LLC dba CommuteAir,AVP,51–200 flights,86.0,45.2
+CommuteAir LLC dba CommuteAir,BHM,20–50 flights,36.0,30.25
+CommuteAir LLC dba CommuteAir,BRO,51–200 flights,120.0,63.25
+CommuteAir LLC dba CommuteAir,BTR,51–200 flights,79.0,62.0
+CommuteAir LLC dba CommuteAir,BUF,51–200 flights,76.0,55.625
+CommuteAir LLC dba CommuteAir,CAE,20–50 flights,41.0,29.5
+CommuteAir LLC dba CommuteAir,CHO,51–200 flights,110.0,174.65
+CommuteAir LLC dba CommuteAir,CRP,51–200 flights,141.0,41.888888888888886
+CommuteAir LLC dba CommuteAir,DAY,51–200 flights,72.0,84.14285714285714
+CommuteAir LLC dba CommuteAir,GPT,51–200 flights,82.0,85.4
+CommuteAir LLC dba CommuteAir,GSO,20–50 flights,25.0,58.0
+CommuteAir LLC dba CommuteAir,HRL,51–200 flights,120.0,83.47368421052632
+CommuteAir LLC dba CommuteAir,HSV,51–200 flights,180.0,83.1923076923077
+CommuteAir LLC dba CommuteAir,IAH,">1,000 flights",1939.0,84.13690476190476
+CommuteAir LLC dba CommuteAir,ICT,51–200 flights,53.0,56.75
+CommuteAir LLC dba CommuteAir,JAN,51–200 flights,90.0,58.8235294117647
+CommuteAir LLC dba CommuteAir,LBB,51–200 flights,77.0,44.111111111111114
+CommuteAir LLC dba CommuteAir,LIT,20–50 flights,50.0,122.18181818181819
+CommuteAir LLC dba CommuteAir,LRD,51–200 flights,90.0,72.88235294117646
+CommuteAir LLC dba CommuteAir,MDT,51–200 flights,90.0,72.77777777777777
+CommuteAir LLC dba CommuteAir,MFE,51–200 flights,60.0,58.0
+CommuteAir LLC dba CommuteAir,MHT,51–200 flights,60.0,66.58333333333333
+CommuteAir LLC dba CommuteAir,MOB,51–200 flights,146.0,93.55555555555556
+CommuteAir LLC dba CommuteAir,PNS,51–200 flights,60.0,52.42857142857143
+CommuteAir LLC dba CommuteAir,PVD,51–200 flights,72.0,66.86666666666666
+CommuteAir LLC dba CommuteAir,ROA,51–200 flights,87.0,80.0
+CommuteAir LLC dba CommuteAir,ROC,51–200 flights,72.0,130.4
+CommuteAir LLC dba CommuteAir,SCE,51–200 flights,116.0,76.875
+CommuteAir LLC dba CommuteAir,SGF,51–200 flights,87.0,50.5
+CommuteAir LLC dba CommuteAir,SHV,51–200 flights,61.0,58.333333333333336
+CommuteAir LLC dba CommuteAir,SYR,51–200 flights,109.0,34.714285714285715
+CommuteAir LLC dba CommuteAir,TUL,20–50 flights,27.0,43.666666666666664
+CommuteAir LLC dba CommuteAir,TYS,51–200 flights,177.0,66.6086956521739
+CommuteAir LLC dba CommuteAir,XNA,51–200 flights,59.0,138.88888888888889
+Delta Air Lines Network,ABQ,51–200 flights,86.0,52.285714285714285
+Delta Air Lines Network,AGS,20–50 flights,31.0,44.0
+Delta Air Lines Network,ALB,51–200 flights,120.0,48.22222222222222
+Delta Air Lines Network,ANC,51–200 flights,150.0,64.57142857142857
+Delta Air Lines Network,ATL,">1,000 flights",20234.0,78.47674418604652
+Delta Air Lines Network,ATW,20–50 flights,31.0,38.75
+Delta Air Lines Network,AUS,">1,000 flights",1139.0,55.02116402116402
+Delta Air Lines Network,AVL,51–200 flights,140.0,69.25
+Delta Air Lines Network,BDL,"201–1,000 flights",331.0,49.30434782608695
+Delta Air Lines Network,BHM,"201–1,000 flights",319.0,65.27027027027027
+Delta Air Lines Network,BIL,51–200 flights,60.0,37.916666666666664
+Delta Air Lines Network,BIS,20–50 flights,30.0,26.2
+Delta Air Lines Network,BNA,"201–1,000 flights",798.0,53.64754098360656
+Delta Air Lines Network,BOI,"201–1,000 flights",224.0,50.351351351351354
+Delta Air Lines Network,BOS,">1,000 flights",2296.0,62.87155963302752
+Delta Air Lines Network,BTR,51–200 flights,80.0,41.5
+Delta Air Lines Network,BUR,51–200 flights,71.0,68.66666666666667
+Delta Air Lines Network,BZN,51–200 flights,150.0,57.8421052631579
+Delta Air Lines Network,CAE,51–200 flights,170.0,94.85714285714286
+Delta Air Lines Network,CHA,51–200 flights,99.0,53.6
+Delta Air Lines Network,CHS,"201–1,000 flights",379.0,75.27906976744185
+Delta Air Lines Network,CID,20–50 flights,30.0,36.142857142857146
+Delta Air Lines Network,CLE,"201–1,000 flights",271.0,68.45238095238095
+Delta Air Lines Network,CLT,"201–1,000 flights",450.0,54.54794520547945
+Delta Air Lines Network,CMH,"201–1,000 flights",276.0,45.75
+Delta Air Lines Network,COS,51–200 flights,56.0,64.14285714285714
+Delta Air Lines Network,CVG,"201–1,000 flights",611.0,78.46428571428571
+Delta Air Lines Network,DAB,51–200 flights,118.0,42.75
+Delta Air Lines Network,DAL,51–200 flights,146.0,56.57142857142857
+Delta Air Lines Network,DAY,51–200 flights,120.0,66.3157894736842
+Delta Air Lines Network,DCA,"201–1,000 flights",781.0,50.00990099009901
+Delta Air Lines Network,DEN,"201–1,000 flights",914.0,46.586666666666666
+Delta Air Lines Network,DFW,"201–1,000 flights",939.0,58.576719576719576
+Delta Air Lines Network,DSM,51–200 flights,108.0,53.13333333333333
+Delta Air Lines Network,DTW,">1,000 flights",5067.0,71.40523882896764
+Delta Air Lines Network,ECP,"201–1,000 flights",227.0,71.6774193548387
+Delta Air Lines Network,ELP,51–200 flights,60.0,57.785714285714285
+Delta Air Lines Network,EWR,"201–1,000 flights",538.0,47.11538461538461
+Delta Air Lines Network,EYW,51–200 flights,121.0,50.416666666666664
+Delta Air Lines Network,FAI,20–50 flights,30.0,63.666666666666664
+Delta Air Lines Network,FAR,51–200 flights,60.0,49.142857142857146
+Delta Air Lines Network,FCA,51–200 flights,62.0,42.0
+Delta Air Lines Network,FLL,">1,000 flights",1212.0,51.526923076923076
+Delta Air Lines Network,FSD,51–200 flights,60.0,53.666666666666664
+Delta Air Lines Network,GEG,51–200 flights,190.0,54.529411764705884
+Delta Air Lines Network,GNV,51–200 flights,134.0,37.5
+Delta Air Lines Network,GPT,51–200 flights,116.0,47.15384615384615
+Delta Air Lines Network,GRB,20–50 flights,41.0,60.142857142857146
+Delta Air Lines Network,GRR,51–200 flights,146.0,66.1
+Delta Air Lines Network,GSO,"201–1,000 flights",242.0,57.38709677419355
+Delta Air Lines Network,GSP,"201–1,000 flights",267.0,44.63636363636363
+Delta Air Lines Network,HNL,"201–1,000 flights",321.0,64.92207792207792
+Delta Air Lines Network,HOU,51–200 flights,116.0,57.06666666666667
+Delta Air Lines Network,HPN,51–200 flights,60.0,38.53846153846154
+Delta Air Lines Network,HRL,20–50 flights,30.0,63.4
+Delta Air Lines Network,HSV,51–200 flights,190.0,52.875
+Delta Air Lines Network,IAD,"201–1,000 flights",270.0,58.666666666666664
+Delta Air Lines Network,IAH,"201–1,000 flights",719.0,55.780701754385966
+Delta Air Lines Network,ICT,51–200 flights,90.0,44.0
+Delta Air Lines Network,ILM,51–200 flights,76.0,56.333333333333336
+Delta Air Lines Network,IND,"201–1,000 flights",360.0,43.604166666666664
+Delta Air Lines Network,JAC,51–200 flights,60.0,42.8
+Delta Air Lines Network,JAN,51–200 flights,156.0,59.294117647058826
+Delta Air Lines Network,JAX,"201–1,000 flights",399.0,52.75342465753425
+Delta Air Lines Network,JFK,">1,000 flights",2570.0,59.87469879518072
+Delta Air Lines Network,KOA,51–200 flights,72.0,105.0
+Delta Air Lines Network,LAS,">1,000 flights",1398.0,51.55335968379447
+Delta Air Lines Network,LAX,">1,000 flights",3180.0,59.45104895104895
+Delta Air Lines Network,LEX,51–200 flights,169.0,57.05
+Delta Air Lines Network,LGA,">1,000 flights",2427.0,63.67155963302752
+Delta Air Lines Network,LGB,20–50 flights,30.0,82.25
+Delta Air Lines Network,LIH,51–200 flights,60.0,123.5
+Delta Air Lines Network,LIT,"201–1,000 flights",205.0,67.04166666666667
+Delta Air Lines Network,MCI,"201–1,000 flights",634.0,77.27906976744185
+Delta Air Lines Network,MCO,">1,000 flights",1960.0,58.83835616438356
+Delta Air Lines Network,MDT,51–200 flights,84.0,77.0909090909091
+Delta Air Lines Network,MDW,51–200 flights,116.0,38.86666666666667
+Delta Air Lines Network,MEM,"201–1,000 flights",391.0,77.6590909090909
+Delta Air Lines Network,MIA,">1,000 flights",1067.0,59.31578947368421
+Delta Air Lines Network,MKE,"201–1,000 flights",274.0,83.04761904761905
+Delta Air Lines Network,MLB,51–200 flights,120.0,73.0
+Delta Air Lines Network,MOB,51–200 flights,60.0,46.8
+Delta Air Lines Network,MSN,51–200 flights,149.0,41.45
+Delta Air Lines Network,MSO,51–200 flights,90.0,64.73333333333333
+Delta Air Lines Network,MSP,">1,000 flights",5119.0,73.92880258899676
+Delta Air Lines Network,MSY,"201–1,000 flights",699.0,61.60674157303371
+Delta Air Lines Network,MYR,"201–1,000 flights",206.0,44.857142857142854
+Delta Air Lines Network,OKC,51–200 flights,145.0,57.63636363636363
+Delta Air Lines Network,OMA,51–200 flights,146.0,48.24
+Delta Air Lines Network,ONT,51–200 flights,138.0,40.76
+Delta Air Lines Network,ORD,"201–1,000 flights",768.0,73.00446428571429
+Delta Air Lines Network,ORF,"201–1,000 flights",266.0,75.3
+Delta Air Lines Network,PBI,"201–1,000 flights",658.0,51.330935251798564
+Delta Air Lines Network,PDX,"201–1,000 flights",578.0,73.13924050632912
+Delta Air Lines Network,PHL,"201–1,000 flights",531.0,43.28089887640449
+Delta Air Lines Network,PHX,"201–1,000 flights",953.0,57.675
+Delta Air Lines Network,PIT,"201–1,000 flights",283.0,47.6551724137931
+Delta Air Lines Network,PNS,"201–1,000 flights",257.0,59.16129032258065
+Delta Air Lines Network,PSC,20–50 flights,30.0,108.0
+Delta Air Lines Network,PSP,51–200 flights,120.0,48.09090909090909
+Delta Air Lines Network,PVD,51–200 flights,106.0,168.2941176470588
+Delta Air Lines Network,PWM,20–50 flights,50.0,39.4
+Delta Air Lines Network,RDU,"201–1,000 flights",991.0,60.81366459627329
+Delta Air Lines Network,RIC,"201–1,000 flights",223.0,50.1
+Delta Air Lines Network,RNO,51–200 flights,90.0,45.68181818181818
+Delta Air Lines Network,ROA,20–50 flights,30.0,17.0
+Delta Air Lines Network,ROC,51–200 flights,88.0,58.86666666666667
+Delta Air Lines Network,RSW,"201–1,000 flights",761.0,55.666666666666664
+Delta Air Lines Network,SAN,"201–1,000 flights",810.0,39.605839416058394
+Delta Air Lines Network,SAT,"201–1,000 flights",568.0,49.6063829787234
+Delta Air Lines Network,SDF,"201–1,000 flights",244.0,41.0
+Delta Air Lines Network,SEA,">1,000 flights",2665.0,62.99418604651163
+Delta Air Lines Network,SFO,">1,000 flights",1159.0,50.91832229580574
+Delta Air Lines Network,SGF,20–50 flights,28.0,47.0
+Delta Air Lines Network,SJC,"201–1,000 flights",265.0,38.354838709677416
+Delta Air Lines Network,SJU,"201–1,000 flights",318.0,48.15068493150685
+Delta Air Lines Network,SLC,">1,000 flights",4615.0,75.61607142857143
+Delta Air Lines Network,SMF,"201–1,000 flights",259.0,70.87878787878788
+Delta Air Lines Network,SNA,"201–1,000 flights",382.0,56.416666666666664
+Delta Air Lines Network,SRQ,"201–1,000 flights",373.0,59.28846153846154
+Delta Air Lines Network,STT,51–200 flights,129.0,41.166666666666664
+Delta Air Lines Network,SYR,51–200 flights,118.0,68.91666666666667
+Delta Air Lines Network,TLH,51–200 flights,196.0,55.69565217391305
+Delta Air Lines Network,TPA,">1,000 flights",1282.0,51.027472527472526
+Delta Air Lines Network,TUS,51–200 flights,132.0,56.0
+Delta Air Lines Network,TVC,20–50 flights,30.0,39.5
+Delta Air Lines Network,TYS,51–200 flights,121.0,63.333333333333336
+Delta Air Lines Network,VPS,"201–1,000 flights",248.0,54.689655172413794
+Frontier Airlines,ATL,">1,000 flights",1888.0,70.8238255033557
+Frontier Airlines,AUS,51–200 flights,133.0,94.46153846153847
+Frontier Airlines,BDL,51–200 flights,87.0,141.03571428571428
+Frontier Airlines,BNA,51–200 flights,59.0,90.6470588235294
+Frontier Airlines,BOS,51–200 flights,107.0,48.37931034482759
+Frontier Airlines,BQN,20–50 flights,40.0,66.07142857142857
+Frontier Airlines,BUF,51–200 flights,82.0,61.1
+Frontier Airlines,CLE,"201–1,000 flights",545.0,82.55882352941177
+Frontier Airlines,CLT,"201–1,000 flights",319.0,62.705882352941174
+Frontier Airlines,CMH,51–200 flights,60.0,61.38461538461539
+Frontier Airlines,CVG,"201–1,000 flights",263.0,92.04081632653062
+Frontier Airlines,DCA,51–200 flights,79.0,70.21052631578948
+Frontier Airlines,DEN,">1,000 flights",1726.0,95.94014084507042
+Frontier Airlines,DFW,"201–1,000 flights",810.0,67.35820895522389
+Frontier Airlines,DTW,"201–1,000 flights",296.0,71.5774647887324
+Frontier Airlines,ELP,20–50 flights,44.0,142.625
+Frontier Airlines,EWR,51–200 flights,115.0,61.78260869565217
+Frontier Airlines,FLL,"201–1,000 flights",437.0,78.84848484848484
+Frontier Airlines,GRR,20–50 flights,46.0,55.833333333333336
+Frontier Airlines,IAD,51–200 flights,126.0,52.708333333333336
+Frontier Airlines,IAH,"201–1,000 flights",427.0,81.5137614678899
+Frontier Airlines,IND,51–200 flights,102.0,49.64705882352941
+Frontier Airlines,ISP,51–200 flights,92.0,70.27586206896552
+Frontier Airlines,JAX,51–200 flights,53.0,54.31578947368421
+Frontier Airlines,JFK,51–200 flights,94.0,41.476190476190474
+Frontier Airlines,LAS,">1,000 flights",1117.0,74.86607142857143
+Frontier Airlines,LAX,"201–1,000 flights",462.0,55.3
+Frontier Airlines,LGA,51–200 flights,199.0,62.422222222222224
+Frontier Airlines,MCI,20–50 flights,38.0,73.0
+Frontier Airlines,MCO,">1,000 flights",1814.0,93.04106280193237
+Frontier Airlines,MDW,51–200 flights,133.0,60.43333333333333
+Frontier Airlines,MEM,20–50 flights,25.0,33.6
+Frontier Airlines,MIA,"201–1,000 flights",427.0,105.68468468468468
+Frontier Airlines,MKE,20–50 flights,36.0,48.833333333333336
+Frontier Airlines,MSP,51–200 flights,98.0,41.2
+Frontier Airlines,MSY,51–200 flights,105.0,59.63157894736842
+Frontier Airlines,MYR,20–50 flights,44.0,47.45454545454545
+Frontier Airlines,OKC,20–50 flights,46.0,69.3
+Frontier Airlines,OMA,20–50 flights,24.0,143.8
+Frontier Airlines,ONT,51–200 flights,160.0,84.45833333333333
+Frontier Airlines,ORD,"201–1,000 flights",391.0,147.8705035971223
+Frontier Airlines,ORF,51–200 flights,53.0,94.85714285714286
+Frontier Airlines,PBI,51–200 flights,76.0,67.3103448275862
+Frontier Airlines,PDX,20–50 flights,47.0,50.44444444444444
+Frontier Airlines,PHL,"201–1,000 flights",919.0,83.8804347826087
+Frontier Airlines,PHX,"201–1,000 flights",663.0,89.33070866141732
+Frontier Airlines,PNS,20–50 flights,28.0,56.0
+Frontier Airlines,RDU,"201–1,000 flights",397.0,59.717171717171716
+Frontier Airlines,RNO,20–50 flights,25.0,84.375
+Frontier Airlines,RSW,51–200 flights,163.0,66.92307692307692
+Frontier Airlines,SAN,51–200 flights,166.0,49.75609756097561
+Frontier Airlines,SAT,51–200 flights,60.0,82.71428571428571
+Frontier Airlines,SEA,51–200 flights,99.0,51.36842105263158
+Frontier Airlines,SFO,"201–1,000 flights",274.0,71.25
+Frontier Airlines,SJC,20–50 flights,31.0,51.5
+Frontier Airlines,SJU,"201–1,000 flights",434.0,80.62345679012346
+Frontier Airlines,SLC,"201–1,000 flights",363.0,60.016666666666666
+Frontier Airlines,SMF,51–200 flights,51.0,114.71428571428571
+Frontier Airlines,SNA,51–200 flights,91.0,49.75
+Frontier Airlines,SRQ,20–50 flights,27.0,40.0
+Frontier Airlines,STL,51–200 flights,97.0,41.8421052631579
+Frontier Airlines,TPA,"201–1,000 flights",647.0,83.0576923076923
+Frontier Airlines,TTN,51–200 flights,117.0,98.53846153846153
+Allegiant Air,ABE,51–200 flights,156.0,76.3157894736842
+Allegiant Air,ACY,51–200 flights,51.0,104.0909090909091
+Allegiant Air,ALB,51–200 flights,76.0,45.0
+Allegiant Air,ATW,51–200 flights,171.0,138.85185185185185
+Allegiant Air,AUS,20–50 flights,34.0,27.0
+Allegiant Air,AVL,"201–1,000 flights",214.0,71.61016949152543
+Allegiant Air,AZA,"201–1,000 flights",543.0,90.43558282208589
+Allegiant Air,BGR,51–200 flights,77.0,31.22222222222222
+Allegiant Air,BIL,20–50 flights,21.0,31.666666666666668
+Allegiant Air,BIS,20–50 flights,39.0,62.5
+Allegiant Air,BLV,51–200 flights,100.0,55.523809523809526
+Allegiant Air,BMI,20–50 flights,25.0,23.0
+Allegiant Air,BNA,51–200 flights,161.0,122.78571428571429
+Allegiant Air,BOS,51–200 flights,60.0,29.666666666666668
+Allegiant Air,BUR,20–50 flights,22.0,37.5
+Allegiant Air,BZN,20–50 flights,25.0,37.833333333333336
+Allegiant Air,CHA,20–50 flights,43.0,44.714285714285715
+Allegiant Air,CID,51–200 flights,52.0,58.142857142857146
+Allegiant Air,COS,20–50 flights,25.0,62.142857142857146
+Allegiant Air,CVG,"201–1,000 flights",259.0,66.26315789473684
+Allegiant Air,DAY,20–50 flights,26.0,101.0
+Allegiant Air,DSM,51–200 flights,123.0,67.84848484848484
+Allegiant Air,ELM,20–50 flights,35.0,105.66666666666667
+Allegiant Air,EUG,20–50 flights,26.0,60.666666666666664
+Allegiant Air,EWR,20–50 flights,26.0,16.0
+Allegiant Air,EYW,51–200 flights,77.0,47.38461538461539
+Allegiant Air,FAR,51–200 flights,75.0,78.125
+Allegiant Air,FAT,20–50 flights,45.0,39.4
+Allegiant Air,FLL,"201–1,000 flights",475.0,80.32352941176471
+Allegiant Air,FNT,51–200 flights,159.0,50.815384615384616
+Allegiant Air,FSD,51–200 flights,86.0,43.05
+Allegiant Air,FWA,51–200 flights,77.0,66.94444444444444
+Allegiant Air,GRR,"201–1,000 flights",245.0,56.48936170212766
+Allegiant Air,GSP,20–50 flights,37.0,147.58333333333334
+Allegiant Air,GUF,51–200 flights,52.0,31.0
+Allegiant Air,HSV,20–50 flights,26.0,117.0
+Allegiant Air,HTS,20–50 flights,27.0,66.42857142857143
+Allegiant Air,IAD,20–50 flights,42.0,54.5
+Allegiant Air,IAG,20–50 flights,44.0,63.125
+Allegiant Air,ICT,20–50 flights,35.0,54.25
+Allegiant Air,IND,51–200 flights,100.0,66.76470588235294
+Allegiant Air,JAX,51–200 flights,94.0,75.81818181818181
+Allegiant Air,LAS,"201–1,000 flights",537.0,83.40131578947368
+Allegiant Air,LCK,51–200 flights,74.0,61.526315789473685
+Allegiant Air,LEX,51–200 flights,61.0,54.357142857142854
+Allegiant Air,MCI,20–50 flights,34.0,54.25
+Horizon Air,SLC,20–50 flights,47.0,22.333333333333332
+Horizon Air,SMF,51–200 flights,96.0,56.785714285714285
+Horizon Air,SNA,51–200 flights,60.0,23.375
+Horizon Air,STS,51–200 flights,66.0,59.111111111111114
+Horizon Air,SUN,20–50 flights,23.0,23.0
+Horizon Air,TUL,51–200 flights,60.0,46.0
+United Air Lines Network,ABQ,51–200 flights,183.0,48.82222222222222
+United Air Lines Network,ALB,51–200 flights,69.0,80.85
+United Air Lines Network,ATL,"201–1,000 flights",670.0,62.27835051546392
+United Air Lines Network,AUS,"201–1,000 flights",942.0,63.395348837209305
+United Air Lines Network,AVL,20–50 flights,30.0,39.0
+United Air Lines Network,BDL,"201–1,000 flights",223.0,53.1025641025641
+United Air Lines Network,BIL,51–200 flights,60.0,33.0
+United Air Lines Network,BNA,"201–1,000 flights",644.0,65.44274809160305
+United Air Lines Network,BOI,51–200 flights,61.0,49.53846153846154
+United Air Lines Network,BOS,">1,000 flights",1062.0,61.37229437229437
+United Air Lines Network,BQN,20–50 flights,30.0,29.6
+United Air Lines Network,BTV,51–200 flights,61.0,59.80952380952381
+United Air Lines Network,BUF,51–200 flights,63.0,65.27777777777777
+United Air Lines Network,BUR,"201–1,000 flights",225.0,44.91111111111111
+United Air Lines Network,BWI,"201–1,000 flights",369.0,48.44642857142857
+United Air Lines Network,BZN,51–200 flights,165.0,69.38095238095238
+United Air Lines Network,CHS,"201–1,000 flights",316.0,63.75
+United Air Lines Network,CID,51–200 flights,90.0,75.29411764705883
+United Air Lines Network,CLE,"201–1,000 flights",769.0,62.38834951456311
+United Air Lines Network,CLT,"201–1,000 flights",247.0,74.51282051282051
+United Air Lines Network,CMH,"201–1,000 flights",293.0,74.35714285714286
+United Air Lines Network,COS,20–50 flights,47.0,98.55555555555556
+United Air Lines Network,CVG,51–200 flights,167.0,46.225806451612904
+United Air Lines Network,DAY,20–50 flights,30.0,52.2
+United Air Lines Network,DCA,"201–1,000 flights",547.0,64.83471074380165
+United Air Lines Network,DEN,">1,000 flights",8317.0,70.05061867266592
+United Air Lines Network,DFW,"201–1,000 flights",828.0,56.24848484848485
+United Air Lines Network,DRO,51–200 flights,60.0,40.333333333333336
+United Air Lines Network,DSM,51–200 flights,146.0,66.32142857142857
+United Air Lines Network,DTW,"201–1,000 flights",206.0,75.95121951219512
+United Air Lines Network,ECP,20–50 flights,30.0,83.33333333333333
+United Air Lines Network,ELP,51–200 flights,60.0,52.125
+United Air Lines Network,EUG,51–200 flights,121.0,77.47058823529412
+United Air Lines Network,EWR,">1,000 flights",5782.0,61.92205882352941
+United Air Lines Network,EYW,51–200 flights,59.0,91.76923076923077
+United Air Lines Network,FAR,20–50 flights,30.0,63.666666666666664
+United Air Lines Network,FAT,51–200 flights,62.0,44.22222222222222
+United Air Lines Network,FCA,51–200 flights,60.0,39.0
+United Air Lines Network,FLL,"201–1,000 flights",844.0,50.333333333333336
+United Air Lines Network,FSD,51–200 flights,59.0,82.13333333333334
+United Air Lines Network,GJT,51–200 flights,60.0,52.0
+United Air Lines Network,GRR,51–200 flights,155.0,82.27777777777777
+United Air Lines Network,GTF,51–200 flights,60.0,44.5
+United Air Lines Network,GUM,51–200 flights,60.0,120.61538461538461
+United Air Lines Network,HDN,51–200 flights,76.0,105.61538461538461
+United Air Lines Network,HNL,"201–1,000 flights",412.0,53.1764705882353
+United Air Lines Network,IAD,">1,000 flights",3334.0,60.73374613003096
+United Air Lines Network,IAH,">1,000 flights",6213.0,64.91954022988506
+United Air Lines Network,ICT,20–50 flights,30.0,23.0
+United Air Lines Network,IDA,20–50 flights,21.0,61.333333333333336
+United Air Lines Network,IND,"201–1,000 flights",217.0,48.878787878787875
+United Air Lines Network,JAC,51–200 flights,83.0,50.5
+United Air Lines Network,JAX,"201–1,000 flights",382.0,50.148148148148145
+United Air Lines Network,KOA,51–200 flights,146.0,53.15
+United Air Lines Network,LAS,">1,000 flights",1292.0,53.20779220779221
+United Air Lines Network,LAX,">1,000 flights",2582.0,54.974747474747474
+United Air Lines Network,LGA,"201–1,000 flights",810.0,68.39252336448598
+United Air Lines Network,LIH,51–200 flights,114.0,40.72222222222222
+United Air Lines Network,MAF,20–50 flights,30.0,64.0
+United Air Lines Network,MCI,"201–1,000 flights",293.0,62.622950819672134
+United Air Lines Network,MCO,">1,000 flights",1356.0,54.90066225165563
+United Air Lines Network,MDT,51–200 flights,55.0,65.05555555555556
+United Air Lines Network,MEM,51–200 flights,120.0,68.69565217391305
+United Air Lines Network,MFE,20–50 flights,30.0,46.6
+United Air Lines Network,MFR,51–200 flights,90.0,49.07692307692308
+United Air Lines Network,MIA,"201–1,000 flights",600.0,44.20454545454545
+United Air Lines Network,MKE,51–200 flights,63.0,54.22222222222222
+United Air Lines Network,MSN,51–200 flights,124.0,92.2258064516129
+United Air Lines Network,MSO,51–200 flights,60.0,31.375
+United Air Lines Network,MSP,"201–1,000 flights",421.0,64.2560975609756
+United Air Lines Network,MSY,"201–1,000 flights",657.0,54.75268817204301
+United Air Lines Network,MTJ,51–200 flights,71.0,50.125
+United Air Lines Network,MYR,20–50 flights,30.0,40.0
+United Air Lines Network,OGG,"201–1,000 flights",203.0,63.666666666666664
+United Air Lines Network,OKC,51–200 flights,59.0,54.63636363636363
+United Air Lines Network,OMA,"201–1,000 flights",239.0,52.5
+United Air Lines Network,ONT,"201–1,000 flights",228.0,71.46511627906976
+United Air Lines Network,ORD,">1,000 flights",8578.0,95.2312282446544
+United Air Lines Network,ORF,51–200 flights,137.0,66.78378378378379
+United Air Lines Network,PBI,"201–1,000 flights",501.0,60.275862068965516
+United Air Lines Network,PDX,"201–1,000 flights",501.0,67.38888888888889
+United Air Lines Network,PHL,"201–1,000 flights",363.0,68.98412698412699
+United Air Lines Network,PHX,"201–1,000 flights",872.0,57.69402985074627
+United Air Lines Network,PIT,"201–1,000 flights",384.0,42.464285714285715
+United Air Lines Network,PNS,51–200 flights,106.0,69.0
+United Air Lines Network,PSC,20–50 flights,30.0,45.833333333333336
+United Air Lines Network,PSP,"201–1,000 flights",243.0,53.0
+United Air Lines Network,PWM,20–50 flights,31.0,66.28571428571429
+United Air Lines Network,RAP,51–200 flights,76.0,52.36363636363637
+United Air Lines Network,RDM,51–200 flights,120.0,37.142857142857146
+United Air Lines Network,RDU,"201–1,000 flights",538.0,68.42647058823529
+United Air Lines Network,RIC,51–200 flights,60.0,39.72727272727273
+United Air Lines Network,RNO,"201–1,000 flights",239.0,54.306451612903224
+United Air Lines Network,ROC,20–50 flights,35.0,84.0
+United Air Lines Network,RSW,"201–1,000 flights",641.0,52.97849462365591
+United Air Lines Network,SAN,"201–1,000 flights",907.0,50.172413793103445
+United Air Lines Network,SAT,"201–1,000 flights",490.0,55.535714285714285
+United Air Lines Network,SAV,"201–1,000 flights",226.0,80.41666666666667
+United Air Lines Network,SBA,51–200 flights,171.0,56.25
+United Air Lines Network,SDF,51–200 flights,68.0,55.833333333333336
+United Air Lines Network,SEA,"201–1,000 flights",628.0,53.48936170212766
+United Air Lines Network,SFO,">1,000 flights",5251.0,61.503074343208496
+United Air Lines Network,SJC,51–200 flights,92.0,57.10526315789474
+United Air Lines Network,SJU,"201–1,000 flights",300.0,48.666666666666664
+United Air Lines Network,SLC,"201–1,000 flights",350.0,71.65625
+United Air Lines Network,SMF,"201–1,000 flights",378.0,57.523809523809526
+United Air Lines Network,SNA,"201–1,000 flights",502.0,36.47692307692308
+United Air Lines Network,SPN,20–50 flights,30.0,21.25
+United Air Lines Network,SRQ,51–200 flights,178.0,56.935483870967744
+United Air Lines Network,STL,51–200 flights,142.0,48.67857142857143
+United Air Lines Network,STT,51–200 flights,94.0,39.06666666666667
+United Air Lines Network,SYR,51–200 flights,61.0,114.5
+United Air Lines Network,TUS,51–200 flights,98.0,49.0
+United Air Lines Network,TVC,20–50 flights,30.0,41.5
+United Air Lines Network,TYS,51–200 flights,62.0,67.46666666666667
+United Air Lines Network,XNA,20–50 flights,31.0,35.0
+Southwest Airlines,ABQ,"201–1,000 flights",940.0,45.40723981900452
+Southwest Airlines,ALB,"201–1,000 flights",338.0,45.70909090909091
+Southwest Airlines,AMA,51–200 flights,146.0,45.28125
+Southwest Airlines,ATL,">1,000 flights",1302.0,42.762081784386616
+Southwest Airlines,AUS,">1,000 flights",3325.0,45.608695652173914
+Southwest Airlines,BDL,"201–1,000 flights",341.0,53.056338028169016
+Southwest Airlines,BHM,"201–1,000 flights",477.0,43.45614035087719
+Southwest Airlines,BNA,">1,000 flights",5552.0,46.09784560143627
+Southwest Airlines,BOI,"201–1,000 flights",398.0,37.878787878787875
+Southwest Airlines,BOS,"201–1,000 flights",609.0,49.4207650273224
+Southwest Airlines,BUF,"201–1,000 flights",475.0,49.14912280701754
+Southwest Airlines,BUR,">1,000 flights",1436.0,47.971830985915496
+Southwest Airlines,BWI,">1,000 flights",6117.0,46.12972420837589
+Southwest Airlines,BZN,51–200 flights,125.0,66.86666666666666
+Southwest Airlines,CHS,"201–1,000 flights",323.0,37.47761194029851
+Southwest Airlines,CLE,"201–1,000 flights",469.0,43.87179487179487
+Southwest Airlines,CLT,"201–1,000 flights",261.0,43.517857142857146
+Southwest Airlines,CMH,">1,000 flights",1050.0,48.71138211382114
+Southwest Airlines,COS,"201–1,000 flights",365.0,42.850746268656714
+Southwest Airlines,CRP,51–200 flights,86.0,54.26315789473684
+Southwest Airlines,CVG,"201–1,000 flights",233.0,39.69387755102041
+Southwest Airlines,DAL,">1,000 flights",5819.0,49.328937160589604
+Southwest Airlines,DCA,">1,000 flights",1324.0,50.390934844192635
+Southwest Airlines,DEN,">1,000 flights",7196.0,45.25016458196182
+Southwest Airlines,DSM,51–200 flights,161.0,54.05714285714286
+Southwest Airlines,DTW,"201–1,000 flights",391.0,42.517857142857146
+Southwest Airlines,ECP,"201–1,000 flights",347.0,46.05952380952381
+Southwest Airlines,ELP,"201–1,000 flights",701.0,44.598984771573605
+Southwest Airlines,EUG,51–200 flights,167.0,39.56410256410256
+Southwest Airlines,FAT,51–200 flights,172.0,39.2
+Southwest Airlines,FLL,"201–1,000 flights",956.0,48.29661016949152
+Southwest Airlines,GEG,"201–1,000 flights",287.0,42.84615384615385
+Southwest Airlines,GRR,51–200 flights,162.0,53.02857142857143
+Southwest Airlines,GSP,51–200 flights,150.0,50.958333333333336
+Southwest Airlines,HDN,20–50 flights,36.0,66.0
+Southwest Airlines,HNL,">1,000 flights",1043.0,39.57692307692308
+Southwest Airlines,HOU,">1,000 flights",4148.0,43.31528662420382
+Southwest Airlines,HRL,51–200 flights,171.0,51.975
+Southwest Airlines,IAD,51–200 flights,90.0,38.12903225806452
+Southwest Airlines,ICT,51–200 flights,161.0,47.25
+Southwest Airlines,IND,">1,000 flights",1175.0,53.3875968992248
+Southwest Airlines,ISP,"201–1,000 flights",208.0,43.39622641509434
+Southwest Airlines,ITO,51–200 flights,158.0,32.583333333333336
+Southwest Airlines,JAN,51–200 flights,90.0,50.714285714285715
+Southwest Airlines,JAX,"201–1,000 flights",411.0,44.95238095238095
+Southwest Airlines,KOA,"201–1,000 flights",237.0,36.674418604651166
+Southwest Airlines,LAS,">1,000 flights",7369.0,48.51143200962696
+Southwest Airlines,LAX,">1,000 flights",2140.0,43.72508038585209
+Southwest Airlines,LBB,"201–1,000 flights",234.0,53.08888888888889
+Southwest Airlines,LGA,"201–1,000 flights",964.0,50.1437908496732
+Southwest Airlines,LGB,">1,000 flights",1007.0,38.83870967741935
+Southwest Airlines,LIH,"201–1,000 flights",237.0,37.77272727272727
+Southwest Airlines,LIT,"201–1,000 flights",208.0,49.390243902439025
+Southwest Airlines,MAF,"201–1,000 flights",305.0,43.19402985074627
+Southwest Airlines,MCI,">1,000 flights",1946.0,44.49111111111111
+Southwest Airlines,MCO,">1,000 flights",4476.0,46.130938586326764
+Southwest Airlines,MDW,">1,000 flights",5924.0,48.176916596461666
+Southwest Airlines,MEM,"201–1,000 flights",379.0,49.0
+Southwest Airlines,MHT,"201–1,000 flights",252.0,44.21052631578947
+Southwest Airlines,MIA,"201–1,000 flights",497.0,42.007407407407406
+Southwest Airlines,MKE,"201–1,000 flights",873.0,42.534562211981566
+Southwest Airlines,MSP,"201–1,000 flights",452.0,52.83529411764706
+Southwest Airlines,MSY,">1,000 flights",1592.0,46.48318042813456
+Southwest Airlines,MTJ,20–50 flights,36.0,42.142857142857146
+Southwest Airlines,MYR,51–200 flights,169.0,37.142857142857146
+Southwest Airlines,OAK,">1,000 flights",2227.0,45.70993914807302
+Southwest Airlines,OGG,"201–1,000 flights",435.0,42.876288659793815
+Southwest Airlines,OKC,"201–1,000 flights",614.0,46.10958904109589
+Southwest Airlines,OMA,"201–1,000 flights",664.0,50.701863354037265
+Southwest Airlines,ONT,"201–1,000 flights",971.0,41.67672413793103
+Southwest Airlines,ORD,"201–1,000 flights",399.0,57.86619718309859
+Southwest Airlines,ORF,"201–1,000 flights",224.0,43.69565217391305
+Southwest Airlines,PBI,"201–1,000 flights",239.0,46.702127659574465
+Southwest Airlines,PDX,"201–1,000 flights",669.0,45.29347826086956
+Southwest Airlines,PHL,"201–1,000 flights",417.0,44.22105263157895
+Southwest Airlines,PHX,">1,000 flights",5991.0,45.040940106141015
+Southwest Airlines,PIT,"201–1,000 flights",880.0,45.16111111111111
+Southwest Airlines,PNS,"201–1,000 flights",258.0,50.43478260869565
+Southwest Airlines,PSP,"201–1,000 flights",291.0,39.32876712328767
+Southwest Airlines,PVD,"201–1,000 flights",442.0,51.44186046511628
+Southwest Airlines,PWM,51–200 flights,106.0,35.869565217391305
+Southwest Airlines,RDU,"201–1,000 flights",739.0,46.2620320855615
+Southwest Airlines,RIC,51–200 flights,175.0,35.51162790697674
+Southwest Airlines,RNO,"201–1,000 flights",671.0,42.36477987421384
+Southwest Airlines,ROC,51–200 flights,182.0,38.093023255813954
+Southwest Airlines,RSW,"201–1,000 flights",766.0,49.37777777777778
+Southwest Airlines,SAN,">1,000 flights",3303.0,43.49227799227799
+Southwest Airlines,SAT,">1,000 flights",1334.0,43.6551724137931
+Southwest Airlines,SBA,51–200 flights,164.0,35.96875
+Southwest Airlines,SDF,"201–1,000 flights",477.0,44.8018018018018
+Southwest Airlines,SEA,"201–1,000 flights",588.0,43.27710843373494
+Southwest Airlines,SFO,"201–1,000 flights",834.0,51.8421052631579
+Southwest Airlines,SJC,">1,000 flights",2155.0,42.857723577235774
+Southwest Airlines,SJU,"201–1,000 flights",298.0,40.629629629629626
+Southwest Airlines,SLC,"201–1,000 flights",906.0,41.9031007751938
+Southwest Airlines,SMF,">1,000 flights",2646.0,47.362694300518136
+Southwest Airlines,SNA,">1,000 flights",1195.0,46.272340425531915
+Southwest Airlines,SRQ,"201–1,000 flights",399.0,49.46067415730337
+Southwest Airlines,STL,">1,000 flights",3161.0,53.1
+Southwest Airlines,STT,20–50 flights,42.0,35.6
+Southwest Airlines,TPA,">1,000 flights",2179.0,49.82134570765661
+Southwest Airlines,TUL,"201–1,000 flights",466.0,47.75438596491228
+Southwest Airlines,TUS,"201–1,000 flights",428.0,44.58474576271186
+Southwest Airlines,TYS,51–200 flights,156.0,59.54545454545455
+Southwest Airlines,VPS,51–200 flights,182.0,49.05882352941177
+Mesa Airlines Inc.,ABQ,51–200 flights,59.0,45.0
+Mesa Airlines Inc.,BHM,51–200 flights,63.0,40.142857142857146
+Mesa Airlines Inc.,BNA,20–50 flights,30.0,25.0
+Mesa Airlines Inc.,BTR,51–200 flights,55.0,91.6
+Mesa Airlines Inc.,BTV,20–50 flights,28.0,45.166666666666664
+Mesa Airlines Inc.,CHS,20–50 flights,47.0,43.714285714285715
+Mesa Airlines Inc.,CLE,51–200 flights,55.0,43.5
+Mesa Airlines Inc.,CLT,51–200 flights,72.0,47.07142857142857
+Mesa Airlines Inc.,CMH,51–200 flights,85.0,47.1
+Mesa Airlines Inc.,COS,20–50 flights,30.0,17.333333333333332
+Mesa Airlines Inc.,DSM,20–50 flights,30.0,58.0
+Mesa Airlines Inc.,DTW,51–200 flights,111.0,91.9090909090909
+Mesa Airlines Inc.,ECP,51–200 flights,58.0,97.66666666666667
+Mesa Airlines Inc.,ELP,51–200 flights,158.0,53.3448275862069
+Mesa Airlines Inc.,EYW,20–50 flights,30.0,41.5
+Mesa Airlines Inc.,GRR,20–50 flights,29.0,66.33333333333333
+Mesa Airlines Inc.,GSP,51–200 flights,60.0,31.555555555555557
+Mesa Airlines Inc.,IAD,"201–1,000 flights",717.0,81.63529411764706
+Mesa Airlines Inc.,IAH,">1,000 flights",2303.0,88.18032786885246
+Mesa Airlines Inc.,ICT,20–50 flights,47.0,67.0
+Mesa Airlines Inc.,IND,51–200 flights,90.0,88.3076923076923
+Mesa Airlines Inc.,JAX,20–50 flights,30.0,84.25
+Mesa Airlines Inc.,LBB,20–50 flights,30.0,105.42857142857143
+Mesa Airlines Inc.,LFT,20–50 flights,31.0,68.375
+Mesa Airlines Inc.,LGA,51–200 flights,95.0,58.63333333333333
+Mesa Airlines Inc.,MAF,51–200 flights,146.0,51.625
+Mesa Airlines Inc.,MCI,51–200 flights,165.0,63.8
+Mesa Airlines Inc.,MEM,20–50 flights,24.0,31.25
+Mesa Airlines Inc.,MFE,51–200 flights,51.0,60.57142857142857
+Mesa Airlines Inc.,MKE,51–200 flights,55.0,56.111111111111114
+Mesa Airlines Inc.,OKC,51–200 flights,82.0,56.666666666666664
+Mesa Airlines Inc.,OMA,20–50 flights,34.0,56.5
+Mesa Airlines Inc.,ORF,51–200 flights,77.0,65.6
+Mesa Airlines Inc.,PIT,20–50 flights,20.0,18.0
+Mesa Airlines Inc.,PNS,20–50 flights,29.0,42.5
+Mesa Airlines Inc.,PSP,20–50 flights,30.0,24.0
+Mesa Airlines Inc.,RDU,20–50 flights,33.0,24.5
+Mesa Airlines Inc.,RIC,51–200 flights,62.0,25.6
+Mesa Airlines Inc.,SAT,20–50 flights,34.0,60.8
+Mesa Airlines Inc.,SAV,51–200 flights,180.0,39.16
+Mesa Airlines Inc.,SBN,20–50 flights,29.0,123.0
+Mesa Airlines Inc.,SRQ,20–50 flights,30.0,28.0
+Mesa Airlines Inc.,STL,51–200 flights,60.0,40.285714285714285
+Mesa Airlines Inc.,TUL,51–200 flights,82.0,105.14285714285714
+Mesa Airlines Inc.,TUS,20–50 flights,21.0,44.666666666666664
+Mesa Airlines Inc.,TYS,20–50 flights,30.0,41.0
+Mesa Airlines Inc.,XNA,51–200 flights,56.0,90.75
+Republic Airline,AGS,20–50 flights,29.0,64.72727272727273
+Republic Airline,ATL,"201–1,000 flights",275.0,63.18181818181818
+Republic Airline,AVL,51–200 flights,60.0,46.875
+Republic Airline,BDL,51–200 flights,101.0,72.4090909090909
+Republic Airline,BGR,20–50 flights,27.0,25.0
+Republic Airline,BNA,"201–1,000 flights",697.0,60.29770992366412
+Republic Airline,BOS,">1,000 flights",3089.0,60.099485420240136
+Republic Airline,BTV,51–200 flights,60.0,123.5
+Republic Airline,BUF,"201–1,000 flights",303.0,83.1159420289855
+Republic Airline,BWI,51–200 flights,146.0,75.84375
+Republic Airline,CAE,51–200 flights,55.0,109.14285714285714
+Republic Airline,CHO,20–50 flights,29.0,50.5
+Republic Airline,CHS,"201–1,000 flights",235.0,63.34090909090909
+Republic Airline,CID,51–200 flights,82.0,42.15
+Republic Airline,CLE,"201–1,000 flights",424.0,66.7948717948718
+Republic Airline,CLT,"201–1,000 flights",260.0,46.285714285714285
+Republic Airline,CMH,">1,000 flights",1105.0,74.71666666666667
+Republic Airline,CVG,"201–1,000 flights",394.0,60.67391304347826
+Republic Airline,DAY,20–50 flights,46.0,44.46153846153846
+Republic Airline,DCA,">1,000 flights",2390.0,61.08450704225352
+Republic Airline,DLH,51–200 flights,77.0,96.625
+Republic Airline,DSM,51–200 flights,104.0,70.61111111111111
+Republic Airline,DTW,"201–1,000 flights",479.0,72.90163934426229
+Republic Airline,ECP,20–50 flights,31.0,40.333333333333336
+Republic Airline,ELP,20–50 flights,29.0,63.6
+Republic Airline,EWR,">1,000 flights",1965.0,52.853881278538815
+Republic Airline,EYW,51–200 flights,139.0,45.785714285714285
+Republic Airline,GRB,20–50 flights,44.0,83.46666666666667
+Republic Airline,GRR,51–200 flights,189.0,59.85294117647059
+Republic Airline,GSO,"201–1,000 flights",210.0,64.56756756756756
+Republic Airline,GSP,51–200 flights,171.0,76.03703703703704
+Republic Airline,HHH,51–200 flights,129.0,44.80769230769231
+Republic Airline,IAD,"201–1,000 flights",383.0,103.35714285714286
+Republic Airline,IAH,51–200 flights,65.0,64.26086956521739
+Republic Airline,ILM,"201–1,000 flights",207.0,47.357142857142854
+Republic Airline,IND,">1,000 flights",1139.0,75.72820512820513
+Republic Airline,JAX,"201–1,000 flights",287.0,53.17391304347826
+Republic Airline,JFK,">1,000 flights",1078.0,62.67204301075269
+Republic Airline,LGA,">1,000 flights",4800.0,72.24679170779862
+Republic Airline,LIT,20–50 flights,30.0,49.125
+Republic Airline,MDT,51–200 flights,77.0,58.15384615384615
+Republic Airline,MEM,"201–1,000 flights",277.0,60.0
+Republic Airline,MIA,51–200 flights,58.0,76.5
+Republic Airline,MSN,"201–1,000 flights",232.0,75.15
+Republic Airline,MSP,51–200 flights,152.0,55.7
+Republic Airline,MSY,51–200 flights,101.0,51.333333333333336
+Republic Airline,MYR,51–200 flights,133.0,43.470588235294116
+Republic Airline,OKC,51–200 flights,85.0,106.875
+Republic Airline,OMA,51–200 flights,56.0,66.11111111111111
+Republic Airline,ORD,">1,000 flights",3270.0,78.63117283950618
+Republic Airline,ORF,"201–1,000 flights",204.0,59.357142857142854
+Republic Airline,PHL,"201–1,000 flights",576.0,65.22388059701493
+Republic Airline,PIT,"201–1,000 flights",853.0,80.63703703703703
+Republic Airline,PVD,20–50 flights,43.0,43.57142857142857
+Republic Airline,PWM,51–200 flights,190.0,55.0
+Republic Airline,RDU,"201–1,000 flights",686.0,62.228813559322035
+Republic Airline,RIC,"201–1,000 flights",440.0,67.25
+Republic Airline,ROA,51–200 flights,59.0,98.05263157894737
+Republic Airline,ROC,51–200 flights,172.0,39.96153846153846
+Republic Airline,SAV,51–200 flights,139.0,79.34482758620689
+Republic Airline,SRQ,51–200 flights,81.0,49.53846153846154
+Republic Airline,STL,"201–1,000 flights",288.0,63.16129032258065
+Republic Airline,SYR,"201–1,000 flights",228.0,59.5
+Republic Airline,TPA,20–50 flights,22.0,24.666666666666668
+Republic Airline,TUL,51–200 flights,57.0,45.375
+Republic Airline,TVC,51–200 flights,55.0,115.85714285714286
+Republic Airline,XNA,51–200 flights,138.0,55.333333333333336

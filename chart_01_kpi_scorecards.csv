@@ -1,0 +1,5 @@
+metric,value,unit
+Delay rate,19.707601631061614,%
+Cancellation rate,0.8895461301640446,%
+Diversion rate,0.2212891683341557,%
+Avg minutes per delayed flight,67.7373102002258,min
